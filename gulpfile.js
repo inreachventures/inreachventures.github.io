@@ -53,6 +53,7 @@ gulp.task('serve', [
 ]);
 
 gulp.task('deploy', [
+  'clean',
   'build',
   'ghpages'
 ]);
