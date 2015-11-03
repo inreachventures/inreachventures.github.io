@@ -1,2 +1,6 @@
-_site/
-.sass-cache/
+node_modules
+*.log
+build
+tmp
+.grunt
+.DS_Store

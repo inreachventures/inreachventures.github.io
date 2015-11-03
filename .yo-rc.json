@@ -1,0 +1,13 @@
+{
+  "generator-yeogurt": {
+    "config": {
+      "projectName": "inreach-pub",
+      "htmlOption": "nunjucks",
+      "jsPreprocessor": "none",
+      "cssOption": "sass",
+      "sassSyntax": "scss",
+      "testFramework": "none"
+    },
+    "version": "1.4.0"
+  }
+}
