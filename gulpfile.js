@@ -6,6 +6,7 @@ var browserSyncLib = require('browser-sync');
 var pjson = require('./package.json');
 var minimist = require('minimist');
 var wrench = require('wrench');
+var ghPages = require('gulp-gh-pages');
 
 // Load all gulp plugins based on their names
 // EX: gulp-copy -> copy
@@ -52,11 +53,12 @@ gulp.task('serve', [
   'watch'
 ]);
 
-gulp.task('deploy', [
-  'clean',
-  'build',
-  'ghpages'
-]);
+gulp.task('deploy', ['build'], function() {
+  return gulp.src(taskTarget + '/**/*')
+      .pipe(ghPages({
+        branch: "master"
+      }));
+});
 
 // Testing
 gulp.task('test', ['eslint']);
