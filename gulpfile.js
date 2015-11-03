@@ -52,5 +52,10 @@ gulp.task('serve', [
   'watch'
 ]);
 
+gulp.task('deploy', [
+  'build',
+  'ghpages'
+]);
+
 // Testing
 gulp.task('test', ['eslint']);
