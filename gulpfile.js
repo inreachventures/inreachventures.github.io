@@ -53,7 +53,7 @@ gulp.task('serve', [
   'watch'
 ]);
 
-gulp.task('deploy', ['build'], function() {
+gulp.task('deploy', function() {
   return gulp.src(taskTarget + '/**/*')
       .pipe(ghPages({
         branch: "master"
