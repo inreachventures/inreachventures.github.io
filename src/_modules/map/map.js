@@ -7,15 +7,7 @@ var Map = function() {
   this.cities = {};
   this.map = undefined;
   this.minBulletSize = 5;
-  this.maxBulletSize = 10;
-
-  // from: http://stackoverflow.com/questions/3426404/create-a-hexadecimal-colour-based-on-a-string-with-javascript
-  this.locationColor = function(location) {
-    var str = location.country;
-    for (var i = 0, hash = 0; i < str.length; hash = str.charCodeAt(i++) + ((hash << 5) - hash));
-    for (var i = 0, colour = "#"; i < 3; colour += ("00" + ((hash >> i++ * 8) & 0xFF).toString(16)).slice(-2));
-    return colour;
-  };
+  this.maxBulletSize = 30;
 
   this.updateMap = function() {
     var min = Infinity;
@@ -53,7 +45,7 @@ var Map = function() {
 
       dataProvider.images.push({
         type: 'circle',
-        color: '#5aaa46', // locationColor(location),
+        color: '#5aaa46',
         width: size,
         height: size,
         longitude: location.longitude,
