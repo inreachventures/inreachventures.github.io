@@ -1,6 +1,7 @@
 'use strict';
 
-var request = require('superagent');
+var request = require('superagent'),
+    AmCharts = require('ammap3');
 
 // Constructor
 var Map = function() {
