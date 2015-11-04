@@ -3,6 +3,7 @@
 var path = require('path');
 var glob = require('glob');
 var browserify = require('browserify');
+var watchify = require('watchify');
 var envify = require('envify');
 var _ = require('lodash');
 var vsource = require('vinyl-source-stream');
@@ -26,7 +27,13 @@ module.exports = function(gulp, plugins, args, config, taskTarget, browserSync) 
         ]
       };
 
-      var bundler = browserify(customOpts);
+      var bundler;
+      if (!args.production) {
+        var opts = _.assign({}, watchify.args, customOpts);
+        bundler = watchify(browserify(opts));
+      } else {
+        bundler = browserify(customOpts);
+      }
 
       var rebundle = function() {
         var startTime = new Date().getTime();

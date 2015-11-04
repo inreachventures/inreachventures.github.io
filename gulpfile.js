@@ -53,12 +53,5 @@ gulp.task('serve', [
   'watch'
 ]);
 
-gulp.task('deploy', function() {
-  return gulp.src(taskTarget + '/**/*')
-      .pipe(ghPages({
-        branch: "master"
-      }));
-});
-
 // Testing
 gulp.task('test', ['eslint']);

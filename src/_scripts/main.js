@@ -1,8 +1,8 @@
 'use strict';
 
-var $ = require('jquery');
-var Link = require('../_modules/link/link');
+var $ = require('jquery'),
+    Map = require('../_modules/map/map');
 
 $(function() {
-  new Link();
+  new Map();
 });

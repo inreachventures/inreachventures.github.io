@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "dependencies": {
     "jquery": "~2.1.4",
-    "normalize.css": "~3.0.3"
+    "normalize.css": "~3.0.3",
+    "superagent": "latest"
   },
   "devDependencies": {
     "lodash": "~3.10.1",
