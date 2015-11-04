@@ -59,23 +59,34 @@ var Map = function() {
     this.map.dataProvider = dataProvider;
   }.bind(this);
 
+  this.fetchCities = function(success) {
+    request
+      .get('http://d2xurswo43gv06.cloudfront.net/cities.json')
+      .end(function(err, response) {
+        if (err) {
+          console.log(err);
+        } else {
+          success(response.body.cities);
+        }
+      }.bind(this));
+  }.bind(this);
+
   AmCharts.ready(function() {
     this.map = new AmCharts.AmMap();
-    this.map.addTitle("Startups this Month", 14);
     this.map.areaSettings = {unlistedAreasAlpha: 0.1};
     this.map.imagesSettings.balloonText = "<span style='font-size:14px;'>[[value]] new companies in [[title]]</span>";
+    this.map.zoomControl.zoomControlEnabled = false;
+    this.map.zoomControl.homeButtonEnabled = false;
 
-    request
-      .get('http://localhost:8080/organizations/locations')
-      .end(function(err, response) {
-        response.body.locations.forEach(function (location) {
-          this.cities[location.city] = location;
-        }.bind(this));
-
-        this.updateMap();
-
-        this.map.write("chartdiv");
+    this.fetchCities(function(locations) {
+      locations.forEach(function (location) {
+        this.cities[location.city] = location;
       }.bind(this));
+
+      this.updateMap();
+
+      this.map.write("chartdiv");
+    }.bind(this));
   }.bind(this));
 };
 
