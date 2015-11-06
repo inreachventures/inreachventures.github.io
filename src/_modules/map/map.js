@@ -43,6 +43,8 @@ var Map = function() {
           square = minSquare;
       }
       var size = Math.sqrt(square / (Math.PI * 2));
+      var companiesText = location.count > 1 ? "companies" : "company";
+      var text = "[[value]] new " + companiesText + " in [[title]]";
 
       dataProvider.images.push({
         type: 'circle',
@@ -53,7 +55,8 @@ var Map = function() {
         latitude: location.latitude,
         value: location.count,
         title: location.city,
-        alpha: 0.8
+        alpha: 0.8,
+        balloonText: text
       });
     }.bind(this));
 
@@ -75,7 +78,6 @@ var Map = function() {
   AmCharts.ready(function() {
     this.map = new AmCharts.AmMap();
     this.map.areaSettings = {unlistedAreasAlpha: 0.1};
-    this.map.imagesSettings.balloonText = "<span style='font-size:14px;'>[[value]] new companies in [[title]]</span>";
     this.map.zoomControl.zoomControlEnabled = false;
     this.map.zoomControl.homeButtonEnabled = false;
 
