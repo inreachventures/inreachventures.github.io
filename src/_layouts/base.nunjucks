@@ -22,6 +22,7 @@
     <meta name="description" content="InReach Ventures"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link rel="stylesheet" href="{{baseUrl}}styles/main.css"/>
+    <link rel="icon" type="image/png" href="{{baseUrl}}images/InReach_Icono.png" />
     {% block topscripts %}{% endblock %}
     {% block stylesheets %}{% endblock %}
 

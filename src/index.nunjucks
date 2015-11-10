@@ -9,6 +9,6 @@
 {% endblock %}
 
 {% block content %}
-<h1 id="name">InReach<span class="postfix">Ventures</span></h1>
+<h1 id="name"><img src="{{baseUrl}}images/01_InReach_Logo.png" /></h1>
 {{map.content()}}
 {% endblock %}
