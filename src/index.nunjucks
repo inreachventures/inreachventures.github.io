@@ -1,14 +1,24 @@
 {% extends '_layouts/base.nunjucks' %}
 
-{% import "_modules/map/map.nunjucks" as map %}
+{% import "_modules/nav/nav.nunjucks" as nav %}
+{% import "_modules/intro/intro.nunjucks" as intro %}
+{% import "_modules/what-we-do/what-we-do.nunjucks" as what_we_do %}
+{% import "_modules/portfolio/portfolio.nunjucks" as portfolio %}
+{% import "_modules/about/about.nunjucks" as about %}
+{% import "_modules/links/links.nunjucks" as links %}
+{% import "_modules/footer/footer.nunjucks" as footer %}
 
 {% block topscripts %}
-<script src="http://www.amcharts.com/lib/3/ammap.js"></script>
-<script src="http://www.amcharts.com/lib/3/maps/js/worldLow.js"></script>
-<script src="http://www.amcharts.com/lib/3/themes/light.js"></script>
 {% endblock %}
 
 {% block content %}
-<h1 id="name"><img src="{{baseUrl}}images/01_InReach_Logo.png" /></h1>
-{{map.content()}}
+<div class="page-container">
+  {{nav.content()}}
+  {{intro.content()}}
+  {{what_we_do.content()}}
+  {{portfolio.content()}}
+  {{about.content()}}
+  {{links.content()}}
+  {{footer.content()}}
+</div>
 {% endblock %}
