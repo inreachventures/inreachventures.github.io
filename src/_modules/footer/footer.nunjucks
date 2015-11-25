@@ -1,0 +1,18 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<div class="bloc bgc-paynes-grey bg-wiggle-1 d-bloc b-parallax" id="bloc-21">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <img src="/images/InReach_Icon.svg" class="img-responsive center-block mg-md img-frame" width="100" />
+        <h6 class="mg-md text-center  tc-manatee">
+          Copyright © 2015, InReach Ventures.<br />All rights reserved.
+        </h6>
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}

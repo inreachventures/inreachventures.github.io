@@ -1,0 +1,40 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<div id="hero-bloc" class="bloc hero bgc-white bg-map-temp-35 d-bloc">
+  <div class="container bloc-sm hero-nav">
+    <nav class="navbar row">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.html"><img src="/images/InReach_Logo.svg" alt="logo" height="75" /></a>
+        <button id="nav-toggle" type="button" class="ui-navbar-toggle navbar-toggle" data-toggle="collapse" data-target=".navbar-1">
+          <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse navbar-1">
+        <ul class="site-navigation nav navbar-nav pull-right">
+          <li>
+            <a class="ltc-green-ryb scroll-to" data-target="#intro">Our Mission</a>
+          </li>
+          <li>
+            <a class="ltc-green-ryb scroll-to" data-target="#portfolio">Our Portfolio</a>
+          </li>
+          <li>
+            <a class="ltc-green-ryb scroll-to" data-target="#about">About Us</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  <div class="v-center">
+    <div class="vc-content row">
+      <div class="col-sm-12">
+        <h1 class=" mg-lg text-center tc-green-ryb glow-t">
+          <strong>We are the investor with entrepreneurial DNA that emphasise visionary founders success.</strong>
+        </h1>
+      </div>
+    </div><a id="scroll-hero" class="btn-dwn" href="#"><span class="scroll-down"></span></a>
+  </div>
+</div>
+{% endmacro %}

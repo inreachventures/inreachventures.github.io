@@ -1,0 +1,29 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<div class="bloc bgc-green-ryb bg-wiggle-1 d-bloc b-parallax" id="bloc-20">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-xs-12 col-md-10 col-md-offset-2">
+        <div class="col-sm-2 text-center">
+          <a class="social-lg" href="https://twitter.com/inreachventures" target="_blank"><span class="twitter-link icon-lg icon-white"></span></a>
+        </div>
+        <div class="col-sm-2 text-center">
+          <a class="social-lg" href="https://facebook.com/inreachventures" target="_blank"><span class="fa fb-link icon-lg icon-white"></span></a>
+        </div>
+        <div class="col-sm-2 text-center">
+          <a class="social-lg" href="https://www.linkedin.com/company/inreach-ventures" target="_blank"><span class="fa linkedin-link icon-lg icon-white"></span></a>
+        </div>
+        <div class="col-sm-2 text-center">
+          <a class="social-lg" href="https://github.com/inreachventures" target="_blank"><span class="fa github-link icon-lg icon-white"></span></a>
+        </div>
+        <div class="col-sm-2 text-center">
+          <a class="social-lg" href="https://angel.co/inreachventures" target="_blank"><span class="fa angel-link icon-lg icon-white"></span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}

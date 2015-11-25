@@ -1,0 +1,29 @@
+.twitter-link {
+  &:before {
+    @include fa-icon('twitter')
+  }
+}
+
+.fb-link {
+  &:before {
+    @include fa-icon('facebook')
+  }
+}
+
+.linkedin-link {
+  &:before {
+    @include fa-icon('linkedin')
+  }
+}
+
+.github-link {
+  &:before {
+    @include fa-icon('git')
+  }
+}
+
+.angel-link {
+  &:before {
+    @include fa-icon('angellist')
+  }
+}

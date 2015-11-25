@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="233px" height="233px" viewBox="0 0 233 233" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>InReach_Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="InReach_Icon" sketch:type="MSLayerGroup">
+            <path d="M0,0.066 L232.935,0.066 L232.935,232.94 L0,232.94 L0,0.066 Z" id="Fill-1" fill="#55A144" sketch:type="MSShapeGroup"></path>
+            <path d="M76.988,26.779 L107.828,26.779 L107.828,51.292 L76.988,51.292 L76.988,26.779 Z" id="Fill-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M232.588,130.187 C225.496,130.187 219.726,124.417 219.726,117.324 L219.726,105.713 C219.726,81.615 200.293,62.011 176.408,62.011 C152.523,62.011 133.092,81.615 133.092,105.713 L133.092,162.569 C133.092,169.662 127.425,175.433 120.46,175.433 C113.495,175.433 107.828,169.662 107.828,162.569 L107.828,63.906 L76.988,63.906 L76.988,162.569 C76.988,186.668 96.49,206.272 120.46,206.272 C144.43,206.272 163.931,186.668 163.931,162.569 L163.931,105.713 C163.931,98.621 169.528,92.85 176.408,92.85 C183.288,92.85 188.886,98.621 188.886,105.713 L188.886,117.324 C188.886,141.422 208.491,161.026 232.588,161.026 L232.935,161.026 L232.935,130.187 L232.588,130.187" id="Fill-4" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

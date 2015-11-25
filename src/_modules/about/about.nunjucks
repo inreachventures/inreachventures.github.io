@@ -1,0 +1,121 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<!-- about -->
+<div class="bloc tc-manatee bgc-white l-bloc" id="about">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="mg-md text-center tc-green-ryb ">
+          <strong>About Us</strong>
+        </h2>
+        <div class="divider-h">
+          <span class="divider divider-half"></span>
+        </div>
+        <p class="text-center">
+          Short introduction text to explain you are a small team and operate outside the norms etc
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- about END -->
+
+<!-- bloc-12 -->
+<div class="bloc bgc-white bg-team-3 d-bloc" id="bloc-12">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <span class="empty-column"></span>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- bloc-12 END -->
+
+<!-- Bloc Group -->
+<div class='bloc-group'>
+
+<!-- bloc-13 -->
+<div class="bloc l-bloc bgc-white bloc-tile-3 tc-manatee" id="bloc-13">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="mg-md tc-green-ryb  text-left">
+          John Mesrie
+        </h3>
+        <h4 class="mg-md tc-green-ryb  text-left">
+          Co-Founder / Partner
+        </h4>
+        <div class="divider-h">
+          <span class="divider"></span>
+        </div>
+        <p class="mg-md">
+          Former General Counsel at Balderton Capital.
+        </p>
+        <h4 class="mg-md ">
+          <span class="twitter-link icon-2130"></span> <a href="https://twitter.com/johnmesrie" target="_blank">@johnmesrie</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- bloc-13 END -->
+
+<!-- bloc-14 -->
+<div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-14">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="mg-md tc-green-ryb  text-left">
+          Roberto Bonanzinga
+        </h3>
+        <h4 class="mg-md tc-green-ryb  text-left">
+          Co-Founder / Partner
+        </h4>
+        <div class="divider-h">
+          <span class="divider"></span>
+        </div>
+        <p class="mg-md">
+          Former Partner at Balderton Capital (Benchmark Europe) where he invested in 15+ companies, including Banjo, Contentful, Depop, Friend.ly (acquired by Facebook), Lifecake (acquired by Canon), SaatchiArt, Tictail, Friend.ly and Wooga. Has over 10 year experience in early stage and venture capital.
+        </p>
+        <h4 class="mg-md">
+          <span class="twitter-link icon-2130"></span> <a href="https://twitter.com/bonanzinga" target="_blank">@bonanzinga</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- bloc-14 END -->
+
+<!-- bloc-15 -->
+<div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-15">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="mg-md tc-green-ryb  text-left">
+          Ben Smith
+        </h3>
+        <h4 class="mg-md tc-green-ryb  text-left">
+          Co-Founder / Partner
+        </h4>
+        <div class="divider-h">
+          <span class="divider"></span>
+        </div>
+        <p class="mg-md">
+          Former UK Engineering Director at <a href="https://yammer.com" target="_blank">Yammer</a> / <a href="https://microsoft.com" target="_blank">Microsoft</a>. Previously Head of Technology at <a hef="https://top10.com" target="_blank">Top10</a> and CTO at <a href="https://metabroadcast.com" target="_blank">MetaBroadcast</a>.
+        </p>
+        <h4 class="mg-md">
+          <span class="twitter-link icon-2130"></span> <a href="https://twitter.com/thesmith" target="_blank">@thesmith</a>
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- bloc-15 END -->
+</div>
+<!-- Bloc Group END -->
+
+{% endmacro %}

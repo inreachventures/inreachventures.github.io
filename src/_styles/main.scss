@@ -10,7 +10,9 @@
 
 @include ion-font();
 
-@import '../_modules/map/map';
+@import '../_modules/nav/nav';
+@import '../_modules/links/links';
+@import '../_modules/portfolio/portfolio';
 
 /*-----------------------------------------------------------------------------------*/
 /*      InReach - v3

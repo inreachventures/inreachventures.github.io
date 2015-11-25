@@ -1,0 +1,23 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<div class="bloc l-bloc bgc-white b-divider tc-manatee" id="intro">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="mg-md text-center tc-green-ryb ">
+          <strong>Entrepreneurship is the equity of the future</strong>
+        </h2>
+        <div class="divider-h">
+          <span class="divider divider-half"></span>
+        </div>
+        <p class="text-center mg-sm">
+          The mission of InReach Ventures is to create and use proprietary software to scale early stage investment across Europe and develop a new model of investing that ensures full alignment between investors and entrepreneurs.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}

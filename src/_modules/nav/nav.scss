@@ -1,0 +1,5 @@
+.scroll-down {
+  &:before {
+    @include fa-icon('chevron-down')
+  }
+}

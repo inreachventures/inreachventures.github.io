@@ -1,0 +1,45 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<div class="bloc tc-white bg-wiggle-2 bgc-manatee d-bloc" id="bloc-3">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="col-sm-4">
+        <h3 class="text-center mg-md  tc-white">
+          We know where you are
+        </h3>
+        <div class="divider-h">
+          <span class="divider divider-half"></span>
+        </div>
+        <p class="text-center">
+          Big data platform approach to discover, validate and support pan-european deals. Using technology to help portfolio grow and maximise opportunity.
+        </p>
+      </div>
+      <div class="col-sm-4">
+        <h3 class="text-center mg-md  tc-white">
+          We know who you are
+        </h3>
+        <div class="divider-h">
+          <span class="divider divider-half"></span>
+        </div>
+        <p class="text-center">
+          Direct relationship with entrepreneurs. Fitness between the business idea and the founders team DNA.
+        </p>
+      </div>
+      <div class="col-sm-4">
+        <h3 class="text-center mg-md  tc-white">
+          We know what you need
+        </h3>
+        <div class="divider-h">
+          <span class="divider divider-half"></span>
+        </div>
+        <p class="text-center">
+          New investment structure 100% aligned with entrepreneurs success. No management fee.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}
