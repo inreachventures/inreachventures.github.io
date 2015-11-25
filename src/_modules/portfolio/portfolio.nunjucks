@@ -15,7 +15,7 @@
           <span class="divider divider-half"></span>
         </div>
         <p class="text-center">
-          Short introduction text to contextualise who these people are etc
+          We invest in visionary founders
         </p>
       </div>
     </div>
@@ -32,19 +32,19 @@
     <div class="row">
       <div class="col-sm-12">
         <h2 class="text-center mg-md tc-green-ryb ">
-          <strong>Joe Bloggs</strong>
+          <strong>Marco Peluso</strong>
         </h2>
         <h3 class="text-center mg-md tc-green-ryb">
-          Acme Industries
+          CEO and Founder of Quardio
         </h3>
         <h4 class="mg-md text-center tc-manatee">
-          <span class="location"></span> Barcelona, Spain
+          <span class="location"></span> London, UK
         </h4>
         <div class="divider-h">
           <span class="divider divider-half"></span>
         </div>
         <p class="text-center">
-          <i>"A short paragraph perhaps detailing the product. or a quote/snippet descirbing how the partnership with InRrach began, what the partnership is like, how InReach uphold their empathetic manifesto etc etc"</i>
+          <i>"Marco founded Qardio in early 2012, as he set out to create technologies to transform healthcare, making it cheaper, smarter and better for everyone. He believes that consumerizing the health experience will completely revolutionize how effective health care is delivered."</i>
         </p>
       </div>
     </div>
@@ -53,7 +53,7 @@
 <!-- bloc-5 END -->
 
 <!-- bloc-6 -->
-<div class="bloc bgc-white bloc-tile-2 b-parallax bg-holding-img-1-g d-bloc bg-r-edge" id="bloc-6">
+<div class="bloc bgc-white bloc-tile-2 b-parallax marco-headshot d-bloc bg-r-edge" id="bloc-6">
   <div class="container bloc-lg">
     <div class="row">
       <div class="col-sm-12">
@@ -70,7 +70,7 @@
 <div class='bloc-group'>
 
 <!-- bloc-7 -->
-<div class="bloc bgc-white bloc-tile-2 bg-holding-img-2-g d-bloc b-parallax bg-l-edge" id="bloc-7">
+<div class="bloc bgc-white bloc-tile-2 eduardo-headshot d-bloc b-parallax bg-l-edge" id="bloc-7">
   <div class="container bloc-lg">
     <div class="row">
       <div class="col-sm-12">
@@ -87,13 +87,13 @@
     <div class="row">
       <div class="col-sm-12">
         <h2 class="text-center mg-md tc-green-ryb ">
-          <strong>Joe Bloggs</strong>
+          <strong>Eduardo Vilar</strong>
         </h2>
         <h3 class="text-center mg-md tc-green-ryb">
-          Acme Industries
+          CEO and Founder of Returnly
         </h3>
         <h4 class="mg-md text-center tc-manatee">
-          <span class="location"></span> Barcelona, Spain
+          <span class="location"></span> Madrid, Spain
         </h4>
         <div class="divider-h">
           <span class="divider divider-half"></span>
@@ -118,13 +118,13 @@
     <div class="row">
       <div class="col-sm-12">
         <h2 class="text-center mg-md tc-green-ryb ">
-          <strong>Joe Bloggs</strong>
+          <strong>Navid Razazi</strong>
         </h2>
         <h3 class="text-center mg-md tc-green-ryb">
-          Acme Industries
+          CEO and Founder of YouPic
         </h3>
         <h4 class="mg-md text-center tc-manatee">
-          <span class="location"></span> Barcelona, Spain
+          <span class="location"></span> Gothamberg, Sweden
         </h4>
         <div class="divider-h">
           <span class="divider divider-half"></span>
@@ -139,7 +139,7 @@
 <!-- bloc-9 END -->
 
 <!-- bloc-10 -->
-<div class="bloc bgc-white bloc-tile-2 b-parallax bg-holding-img-3-g d-bloc bg-r-edge" id="bloc-10">
+<div class="bloc bgc-white bloc-tile-2 b-parallax navid-headshot d-bloc bg-r-edge" id="bloc-10">
   <div class="container bloc-lg">
     <div class="row">
       <div class="col-sm-12">

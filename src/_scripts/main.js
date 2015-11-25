@@ -1,7 +1,8 @@
 'use strict';
 
-var $ = require('jquery'),
+var $ = window.jQuery = require('jquery'),
     tooltip = require('bootstrap-tooltip'),
+    bootstrap = require('bootstrap-sass'),
     Nav = require('../_modules/nav/nav.js'),
     nav = new Nav();
 

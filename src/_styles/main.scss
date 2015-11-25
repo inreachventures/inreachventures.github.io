@@ -10,10 +10,6 @@
 
 @include ion-font();
 
-@import '../_modules/nav/nav';
-@import '../_modules/links/links';
-@import '../_modules/portfolio/portfolio';
-
 /*-----------------------------------------------------------------------------------*/
 /*      InReach - v3
 /*-----------------------------------------------------------------------------------*/
@@ -966,3 +962,7 @@ iframe{
 .mobilenav li:first-child {
     margin-top: 60px;
 }
+
+@import '../_modules/nav/nav';
+@import '../_modules/links/links';
+@import '../_modules/portfolio/portfolio';
