@@ -13,7 +13,8 @@ function getHeroBodyHeight() {
 
 function getHeroHeight() {
   var height = $(window).height();
-  return height < getHeroBodyHeight() ? heroBodyHeight + 100 : height;
+  var heroBodyHeight = getHeroBodyHeight()
+  return height < heroBodyHeight ? heroBodyHeight + 100 : height;
 }
 
 // Check hero height
