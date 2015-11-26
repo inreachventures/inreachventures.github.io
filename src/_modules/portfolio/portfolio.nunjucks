@@ -55,13 +55,6 @@
 <!-- bloc-6 -->
 <div class="bloc bgc-white bloc-tile-2 b-parallax marco-headshot d-bloc bg-r-edge" id="bloc-6">
   <div class="b-parallax bg-r-edge overlay-1">
-    <div class="container bloc-lg">
-      <div class="row">
-        <div class="col-sm-12">
-          <span class="empty-column"></span>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 <!-- bloc-6 END -->
@@ -74,13 +67,6 @@
 <!-- bloc-7 -->
 <div class="bloc bgc-white bloc-tile-2 eduardo-headshot d-bloc b-parallax bg-l-edge" id="bloc-7">
   <div class="b-parallax overlay-2">
-    <div class="container bloc-lg">
-      <div class="row">
-        <div class="col-sm-12">
-          <span class="empty-column"></span>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 <!-- bloc-7 END -->
@@ -145,13 +131,6 @@
 <!-- bloc-10 -->
 <div class="bloc bgc-white bloc-tile-2 b-parallax navid-headshot d-bloc bg-r-edge" id="bloc-10">
   <div class="b-parallax bg-r-edge overlay-3">
-    <div class="container bloc-lg">
-      <div class="row">
-        <div class="col-sm-12">
-          <span class="empty-column"></span>
-        </div>
-      </div>
-    </div>
   </div>
 </div>
 <!-- bloc-10 END -->

@@ -652,38 +652,8 @@ iframe{
 
 /* Bloc image backgrounds */
 
-.bg-holding-img-1{
-  background-image:url("/images/holding_img_1.png");
-}
-.bg-holding-img-2{
-  background-image:url("/images/holding_img_2.png");
-}
-.bg-holding-img-3{
-  background-image:url("/images/holding_img_3.png");
-}
-.bg-holding-img-1-g{
-  background-image:url("/images/holding_img_1_g.png");
-}
-.bg-holding-img-2-g{
-  background-image:url("/images/holding_img_2_g.png");
-}
-.bg-holding-img-3-g{
-  background-image:url("/images/holding_img_3_g.png");
-}
-.bg-team-3{
-  background-image:url("/images/team_3.jpg");
-}
 .bg-wiggle-2{
   background-image:url("/images/wiggle_2.png");
-}
-.bg-wiggle-1{
-  background-image:url("/images/wiggle_1.png");
-}
-.bg-holding-img-2-g{
-  background-image:url("/images/holding_img_2_g.png");
-}
-.bg-holding-img-3-g{
-  background-image:url("/images/holding_img_3_g.png");
 }
 .bg-wiggle-1{
   background-image:url("/images/wiggle_1.png");
@@ -966,3 +936,4 @@ iframe{
 @import '../_modules/nav/nav';
 @import '../_modules/links/links';
 @import '../_modules/portfolio/portfolio';
+@import '../_modules/about/about';

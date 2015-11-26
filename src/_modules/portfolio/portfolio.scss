@@ -1,8 +1,6 @@
 @mixin overlay ($number) {
   background-image:url("/images/overlays/InReach_overlay_#{$number}.png");
   background-repeat:no-repeat;
-  max-width: 770px;
-  max-height: 770px;
   margin-left: -50px;
   margin-right: -50px;
   height: 670px;
