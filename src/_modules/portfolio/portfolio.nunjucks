@@ -66,7 +66,7 @@
 
 <!-- bloc-7 -->
 <div class="bloc bgc-white bloc-tile-2 eduardo-headshot d-bloc b-parallax bg-l-edge" id="bloc-7">
-  <div class="b-parallax overlay-2">
+  <div class="b-parallax bg-l-edge overlay-2">
   </div>
 </div>
 <!-- bloc-7 END -->
