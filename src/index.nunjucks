@@ -1,7 +1,6 @@
 {% extends '_layouts/base.nunjucks' %}
 
 {% import "_modules/nav/nav.nunjucks" as nav %}
-{% import "_modules/intro/intro.nunjucks" as intro %}
 {% import "_modules/what-we-do/what-we-do.nunjucks" as what_we_do %}
 {% import "_modules/portfolio/portfolio.nunjucks" as portfolio %}
 {% import "_modules/about/about.nunjucks" as about %}
@@ -14,7 +13,6 @@
 {% block content %}
 <div class="page-container">
   {{nav.content()}}
-  {{intro.content()}}
   {{what_we_do.content()}}
   {{portfolio.content()}}
   {{about.content()}}

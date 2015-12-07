@@ -1,4 +1,12 @@
 .bg-team-3{
   background-image:url("/images/team_3.jpg");
   max-width: 2592px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1536px) {
+  .bg-team-3 {
+    min-height: 700px;
+  }
 }

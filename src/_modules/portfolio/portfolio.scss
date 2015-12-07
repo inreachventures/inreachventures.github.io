@@ -31,6 +31,9 @@
 .navid-headshot {
   @include headshot("navid.jpg")
 }
+.murat-headshot {
+  @include headshot("murat.jpg")
+}
 .overlay-1 {
   @include overlay(1)
 }
@@ -39,4 +42,10 @@
 }
 .overlay-3 {
   @include overlay(3)
+}
+.overlay-4 {
+  @include overlay(4)
+}
+.overlay-5 {
+  @include overlay(5)
 }
