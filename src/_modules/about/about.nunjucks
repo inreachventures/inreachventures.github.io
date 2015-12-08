@@ -58,9 +58,12 @@
         <p class="mg-md">
           John is focused on the operations of the firm, including its innovative deal structuring and investment processes.
         </p>
-        <h4 class="mg-md ">
-          <span class="twitter-link icon-2130"></span> <a href="https://twitter.com/johnmesrie" target="_blank">@johnmesrie</a>
-        </h4>
+        <dl class="dl-horizontal social-links">
+          <dt><span class="twitter-link icon-2130"></span></dt>
+          <dd><a href="https://twitter.com/johnmesrie" target="_blank">@johnmesrie</a></dd>
+          <dt><span class="linkedin-link icon-2130"></span></dt>
+          <dd class="linkedin"><a href="https://uk.linkedin.com/in/john-mesrie-973a93a" target="_blank">LinkedIn</a></dd>
+        </dl>
       </div>
     </div>
   </div>
@@ -84,9 +87,12 @@
         <p class="mg-md">
           Former Partner at Balderton Capital (Benchmark Europe) where he invested in companies including: Banjo, Contentful, Depop, Friend.ly (acquired by Facebook), Lifecake (acquired by Canon), StoryLane (acquired by Facebook), Tictail, Vivino and Wooga.
         </p>
-        <h4 class="mg-md">
-          <span class="twitter-link icon-2130"></span> <a href="https://twitter.com/bonanzinga" target="_blank">@bonanzinga</a>
-        </h4>
+        <dl class="dl-horizontal social-links">
+          <dt><span class="twitter-link icon-2130"></span></dt>
+          <dd><a href="https://twitter.com/bonanzinga" target="_blank">@bonanzinga</a></dd>
+          <dt><span class="linkedin-link icon-2130"></span></dt>
+          <dd class="linkedin"><a href="https://uk.linkedin.com/in/bonanzinga" target="_blank">LinkedIn</a></dd>
+        </dl>
       </div>
     </div>
   </div>
@@ -113,9 +119,12 @@
         <p class="mg-md">
           Ben is building a technology platform to transform traditional Venture Capital.
         </p>
-        <h4 class="mg-md">
-          <span class="twitter-link icon-2130"></span> <a href="https://twitter.com/thesmith" target="_blank">@thesmith</a>
-        </h4>
+        <dl class="dl-horizontal social-links">
+          <dt><span class="twitter-link icon-2130"></span></dt>
+          <dd><a href="https://twitter.com/thesmith" target="_blank">@thesmith</a></dd>
+          <dt><span class="linkedin-link icon-2130"></span></dt>
+          <dd class="linkedin"><a href="https://uk.linkedin.com/in/benthesmith" target="_blank">LinkedIn</a></dd>
+        </dl>
       </div>
     </div>
   </div>

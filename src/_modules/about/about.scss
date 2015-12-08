@@ -5,6 +5,19 @@
   margin-right: auto;
 }
 
+.social-links {
+  dt {
+    width: 18px;
+  }
+  dd {
+    margin-left: 30px;
+  }
+}
+
+.linkedin {
+  padding-top: 2px;
+}
+
 @media (min-width: 1536px) {
   .bg-team-3 {
     min-height: 700px;
