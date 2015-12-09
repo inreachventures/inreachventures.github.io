@@ -1,12 +1,14 @@
-# Inreach-Pub readme
+# InReach Ventues Website Development
 
 Generated on 2015-11-03 using
 [generator-yeogurt@1.4.0](https://github.com/larsonjj/generator-yeogurt)
 
 ## Description
 
-This is an example readme file.
-Describe your site/app here.
+This is the development version of the site deployed to [master](https://github.com/inreachventures/inreachventures.github.io/master).
+If you find errors, see if you can fix them on this branch using the build steps below.
+
+PRs are very-much welcomed!
 
 ## Technologies used
 
