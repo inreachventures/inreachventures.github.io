@@ -3,3 +3,52 @@
     @include fa-icon('chevron-down')
   }
 }
+
+.hero{
+  padding-top:0;
+}
+.hero-nav{
+  margin: 0 auto;
+  top:0;
+  left:0;
+  right:0;
+}
+.hero .btn-dwn{
+  width: 58px;
+  height: 58px;
+  line-height: 58px;
+  margin: 0 0 0 -29px;
+  padding: 0;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 18px;
+  color: rgba(255,255,255,.8)!important;
+  background: rgba(90,170,70,1);
+  position: absolute;
+  left: 50%;
+  bottom: 60px;
+  border:0;
+}
+.hero .btn-dwn:hover{
+  color: rgba(255,255,255,1);
+}
+.hero .hero-nav{
+  padding-left:inherit;
+  padding-right:inherit;
+}
+
+@media (min-width: 768px) {
+  .hero-nav {
+    position: absolute;
+  }
+  .v-center{
+    position: relative;
+    height: inherit;
+  }
+  .v-center .vc-content{
+    position:relative;
+    top:50%;
+    transform:translateY(-50%);
+    -webkit-transform:translateY(-50%);
+  }
+}
