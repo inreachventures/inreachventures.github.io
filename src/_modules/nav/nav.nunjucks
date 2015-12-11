@@ -30,7 +30,7 @@
         <h1 class="mg-lg text-center tc-green-ryb glow-t">
           <strong>Scaling early stage investment across Europe through software</strong>
         </h1>
-        <h2 class="mg-lg text-center tc-green-ryb glow-t hidden-sm hidden-xs">InReach Ventures has developed a new model of investing that ensures full alignment between investors and entrepreneurs</h2>
+        <!-- <h2 class="mg-lg text-center tc-green-ryb glow-t hidden-sm hidden-xs">InReach Ventures has developed a new model of investing that ensures full alignment between investors and entrepreneurs</h2> -->
       </div>
     </div>
     <a id="scroll-hero" class="btn-dwn" href="#"><span class="scroll-down"></span></a>

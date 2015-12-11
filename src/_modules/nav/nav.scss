@@ -4,6 +4,18 @@
   }
 }
 
+.bg-map-temp{
+  background-image:url('/images/map_temp.png');
+}
+.bg-map-temp-35{
+  background-image:url('/images/map_temp_35.png');
+}
+@media (max-width: 768px) {
+  .bg-map-temp-35{
+    background-image:url('/images/map_temp_35_mobile.png');
+  }
+}
+
 .hero{
   padding-top:0;
 }
