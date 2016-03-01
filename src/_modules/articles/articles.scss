@@ -1,9 +1,21 @@
 .article {
-  width: 600px;
+  width: 800px;
   margin-left: auto;
   margin-right: auto;
 }
 
 #articles .bloc-lg {
   padding-top: 0px;
+}
+
+@media (max-width: 800px) {
+  .article {
+    width: 600px;
+  }
+}
+
+@media (max-width: 600px) {
+  .article {
+    width: 400px;
+  }
 }
