@@ -4,6 +4,7 @@
 {% import "_modules/what-we-do/what-we-do.nunjucks" as what_we_do %}
 {% import "_modules/portfolio/portfolio.nunjucks" as portfolio %}
 {% import "_modules/about/about.nunjucks" as about %}
+{% import "_modules/articles/articles.nunjucks" as articles %}
 {% import "_modules/links/links.nunjucks" as links %}
 {% import "_modules/footer/footer.nunjucks" as footer %}
 
@@ -16,6 +17,7 @@
   {{what_we_do.content()}}
   {{portfolio.content()}}
   {{about.content()}}
+  {{articles.content()}}
   {{links.content()}}
   {{footer.content()}}
 </div>

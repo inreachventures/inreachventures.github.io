@@ -20,6 +20,9 @@
           <li>
             <a class="ltc-green-ryb scroll-to" data-target="#about">About Us</a>
           </li>
+          <li>
+            <a class="ltc-green-ryb scroll-to" data-target="#articles">Articles</a>
+          </li>
         </ul>
       </div>
     </nav>

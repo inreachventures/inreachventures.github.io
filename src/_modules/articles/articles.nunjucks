@@ -1,0 +1,16 @@
+{% macro content(spec) %}
+
+{% set spec = spec or {} %}
+{% set _class = spec.class or '' %}
+
+<div id="articles" class="bloc-group">
+  <div class="container bloc-lg">
+    <div class="row">
+      <div class="article">
+        <script async src="https://static.medium.com/embed.js"></script>
+        <a class="m-collection" data-width="600" data-border="false" href="https://medium.com/entrepreneurship-at-work">Entrepreneurship at Work</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endmacro %}
