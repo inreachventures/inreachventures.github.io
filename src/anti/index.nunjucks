@@ -1,0 +1,43 @@
+{% extends '_layouts/base.nunjucks' %}
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+{% block content %}
+  <div class="page-container">
+    <h1 class="page_title">Anti-Bribery and Corruption Policy</h1>
+
+    <div class="post-content">
+      <h2>Introduction</h2>
+      <p>InReach Ventures LLP&nbsp;values its reputation for ethical behaviour and for financial probity and&nbsp;reliability. It recognises that over and above the commission of any crime, any involvement in&nbsp;bribery will also reflect adversely on its image and reputation. Its aim therefore is&nbsp;to limit its&nbsp;exposure to bribery by:</p>
+      <ul>
+        <li>Setting out a clear anti-bribery policy;</li>
+        <li>Training all consultants and clients, so that they can recognise and avoid the use of bribery by themselves and others;</li>
+        <li>Encouraging its consultants and clients to be vigilant and to report any suspicion of bribery, providing them with suitable channels of communication and ensuring sensitive information is treated appropriately;</li>
+        <li>Notifying all third parties that the Partnership engage with of its policy and zero tolerance of bribery and/or corruption.</li>
+        <li>Rigorously investigating instances of alleged bribery and assisting the police and other appropriate authorities in any resultant prosecution;</li>
+        <li>Taking firm and vigorous action against any individual(s) involved in bribery.</li>
+      </ul>
+      <p>&nbsp;</p>
+      <h2>The Policy</h2>
+      <p>InReach Ventures LLP prohibits the Partnership:<br>
+      the offering, the giving, the solicitation or the acceptance of any bribe, whether cash or other inducement to or from any person or company, wherever they are situated and whether they are a public official or body or private person or company by any individual consultant, agent or other person or body acting on the Partnership’s behalf in order to gain any commercial, contractual or regulatory advantage for the Partnership in a way which is unethical or in order to gain any personal advantage, pecuniary or otherwise, for the individual or anyone connected with the individual.</p>
+      <p>&nbsp;</p>
+      <h2>Further Clarification</h2>
+      <p>The Partnership recognises that market practice varies across the territories in which it does business and what is normal and acceptable in one place may not be in another. This policy prohibits any inducement which results in a personal gain or advantage to the recipient or any person or body associated with them, and which is intended to influence them to take action which may not be solely in the interests of the Partnership or of the person or body employing or contracting with them or whom they represent.<br>
+      This policy is not meant to prohibit the following practices providing they are customary in a particular market, are proportionate and are properly recorded</p>
+      <ul>
+        <li>normal and appropriate hospitality</li>
+        <li>the giving of a gift for a corporate reason or at another special time, as long as reported in the proper manner within the firm on the gifts register</li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>Inevitably, decisions as to what is acceptable may not always be easy. If anyone is in doubt as to whether a potential act constitutes bribery, the matter should be referred to the local senior manager with responsibility for this policy before proceeding. If necessary, guidance should also be sought from the Compliance Officer</p>
+      <p>&nbsp;</p>
+      <h2>Consultants and Principles Responsibility within InReach Ventures LLP</h2>
+      <p>The prevention, detection and reporting of bribery is the responsibility of all consultants throughout the partnership. Suitable channels of communication by which consultants or others can report confidentially any suspicion of bribery will be maintained via the Anti-Corruption Reporting procedures.</p>
+      <p>&nbsp;</p>
+      <p>Useful resource: <a href="http://www.transparency.org.uk">www.transparency.org.uk</a> for the Transparency Index</p>
+      <p>A fuller Policy and Procedures outlining all the Principals of the Act can be requested From the Compliance Officer of the Partnership by emailing <a href="mailto:john@inreachventures">john@inreachventures.com</a></p>
+    </div>
+  </div>
+  {% endblock %}

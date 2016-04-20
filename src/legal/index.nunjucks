@@ -1,0 +1,16 @@
+{% extends '_layouts/base.nunjucks' %}
+
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+
+{% block content %}
+<div class="page-container">
+  <ul>
+    <li><a href="/cookies">Cookies and Privacy Policy</a></li>
+    <li><a href="/terms">Website Terms and Conditions of Use</a></li>
+    <li><a href="/anti">Anti-Bribery and Corruption Policy</a></li>
+  </ul>
+</div>
+{% endblock %}

@@ -1,0 +1,87 @@
+{% extends '_layouts/base.nunjucks' %}
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+{% block content %}
+  <div class="page-container">
+    <h1 class="page_title">Website Terms and Condition of Use</h1>
+    <div class="post-content">
+      <p>This page (together with the documents referred to on it) tells you the Terms and Conditions of Use (Terms of Use) on which you may make use of this website <a href="http://www.inreachventures.com">inreachventures.com</a> (the Website).</p>
+      <p>Please read these terms of use carefully before you start to use our Website. By using our Website, you indicate that you accept the Terms of Use and that you agree to abide by them.</p>
+      <p>If you do not agree to the Terms of Use, please refrain from using our Website.</p>
+      <h2>1 Information About Us</h2>
+      <p>1.1 We are a limited liability partnership registered in England and Wales at Companies House under the name InReach Ventures LLP (we, us, our, and InReach Ventures).</p>
+      <p>Our registered office is at c/o Rees Pollock, 4th Floor, 35 New Bridge Street, London EC4V 6BW and our company number is OC401211.</p>
+      <p>1.2 We are an Appointed Representative of Sturgeon Ventures LLP FRN # 452811 who is authorised and regulated by the Financial Conduct Authority (the FCA) and we are entered on the FCA Register with the firm identification number FRN 742434.</p>
+      <p>1.3 If you have any queries about the Website or any information contained on it, please contact us at c/o WeWork, 22 Upper Ground, London SE1 9PD or by telephone on + 44 (0)203 808 9951; or by email at <a href="mailto:john@inreachventures.com">john@inreachventures.com</a></p>
+      <h2>2 Accessing Our Website</h2>
+      <p>2.1 Access to our Website is permitted on a temporary basis, and we reserve the right to withdraw or amend the service we provide on our Website without notice. From time to time, we may restrict access to some or all of our Website. We will not be liable if for any reason our Website is unavailable at any time or for any period.</p>
+      <p>2.2 If you breach these Terms of Use, your permission to use the Website terminates immediately and you must immediately destroy any downloaded or printed extracts from the Website.</p>
+      <p>2.3 You are responsible for making all arrangements necessary for you to have access to our Website.</p>
+      <p>2.4 By accessing our Webs ite any person using your computer agrees to be bound by these Terms of Use. You are responsible for ensuring that all persons who access our Website through your internet connection and on your computer are aware of these Terms of Use and that they comply with them. You are also responsible for the use of our Website by any person using your computer.</p>
+      <h2>3 Disclaimer</h2>
+      <p>3.1 Nothing on this Website is intended, nor should it be taken, to create any legal or contractual relationship. Any transmission, downloading or sending of any information from the Website does not create any contractual relationship.</p>
+      <p>3.2 The content of the Website is designed for information purposes only. Neither the information nor any opinions stated in the Website constitutes a solicitation or offer by InReach Ventures to buy or sell any securities or other financial instruments or to provide any investment advice.</p>
+      <p>3.3 The provision of investment services may be restricted in certain jurisdictions. It is your responsibility to acquaint yourself with any local laws and restrictions on the usage of this Website and the availability of any services described on it. The information on this Website is not intended for distribution to or use by any personal entity in any jurisdiction or country where such distribution would be contrary to local law or regulation. The Services are available only to persons in the United Kingdom and other European Economic Area countries. The Services are not available to United States persons directly, unless introduced to InReach Ventures by a FINRA registered broker or their United States attorney.</p>
+      <p>3.4 Nothing in this Website may be published in the press or elsewhere without permission of InReach Ventures.</p>
+      <p>3.5 InReach Ventures does not provide legal or tax advice. Clients of InReach Ventures and viewers of this Website are encouraged to consult their own legal and tax advisers before making any investment decision. Private companies in all jurisdictions and potential investors should take independent legal and taxation and investment advice before proceeding with any type of fund raising activity.</p>
+      <p>3.6 While we endeavour at all times to ensure information on our Website is clear, fair and not misleading at the date of publication, we do not hold the information as impartial and it should not be viewed as wholly objective. Information on this Website is based on sources that we believe to be reliable but we give no undertaking that it is accurate or complete and InReach Ventures cannot and does not guarantee the accuracy, validity, timeliness or completeness of any information or data made available to you for any particular purpose or at all.</p>
+      <p>3.7 Any opinions are subject to change without notice and InReach Ventures is under no obligation to report or keep information accurate.</p>
+      <p>3.8 This Website is controlled and operated by InReach Ventures in the United Kingdom. We make no representations that materials in the Website are appropriate or available for use in other locations. Those who choose to access the Website from other locations do so at their own risk and are responsible for compliance with all applicable laws.</p>
+      <h2>4 Intellectual Property Rights</h2>
+      <p>4.1 This Website, its contents, any materials downloaded, and all intellectual property pertaining to or contained on the Website (including but not limited to copyrights, patents, database rights, graphics, designs, text, logos, trade dress, trademarks and service marks) are owned by or licensed to us and/or from third parties and all rights, title and interest in them shall remain the property of InReach Ventures and/or such third parties (collectively, the Content).</p>
+      <p>4.2 The Content is protected by copyright, patent and trademark laws, and various other intellectual property rights and unfair competition laws.</p>
+      <p>4.3 You are permitted to print copies and download extracts of the content on the Website for your own personal use for information purposes only, and may draw the attention of others within your organisation to material posted on the Website, subject to the following conditions:</p>
+      <p>4.3.1 our status (and that of any identified contributors) as the authors of material on our Website must always be acknowledged;</p>
+      <p>4.3.2 you must not modify in any way the paper or digital copies of any materials you have printed off or downloaded, and you must not use any illustrations, photographs, video or audio sequences or graphics separately from any accompanying text;</p>
+      <p>4.3.3 you must not duplicate, copy, publish, modify, create derivative works from, participate in the transfer of, post on the internet, or in any way distribute, redistribute or exploit the Website, or any portion of the Website, for any public or commercial use without our express prior written consent;</p>
+      <p>4.3.4 you must not otherwise use any part of the Website in contravention of these Terms of Use.</p>
+      <p>4.4 If you print off, copy or download any part of the Website in breach of these Terms of Use, your right to use the Website will cease immediately and you must, at our option, return to us or destroy any copies of the materials you have made.</p>
+      <h2>5 Unlawful or Prohibited Use</h2>
+      <p>5.1 We will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses, trojans, worms, logic bombs or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our Website or to your downloading of any material posted on it, or on any website linked to it.</p>
+      <p>5.2 You must not misuse our Website by knowingly or recklessly introducing viruses, trojans, worms, logic bombs or any other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Website, the server on which our Website is stored or any server, computer or database connected to our Website. You must not attack our Website via a denial-of-service attack or a distributed denial-of service attack.</p>
+      <p>5.3 Any such unauthorised use of our Website may give rise to a claim for damages and/or be a criminal offence under the Computer Misuse Act 1990. We will report any such activity to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our Website will cease immediately and without further notice.</p>
+      <h2>6 Privacy</h2>
+      <p>6.1 Our Privacy Policy applies to use of our Website, and its terms are made a part of these Terms of Use by this reference.</p>
+      <p>6.2 Additionally, by using our Website, you acknowledge and agree that internet transmissions are never completely private or secure. You understand that any message or information you send to our Website may be read or intercepted by others, notwithstanding our efforts to protect such transmissions. We are not responsible for any messages which are lost, altered by third parties or intercepted and we will not be liable to you or anyone else for any damages or otherwise in connection with any message sent by you to us or by us to you via the internet.</p>
+      <p>6.3 Our Website makes use of cookies. Cookies are files which our server uses to identify your computer. Cookies cannot identify which person is using the computer. The cookies we use record which parts of our Site are being visited and for how long.</p>
+      <p>6.4 The Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 requires that cookies can only be placed on a computer where the user has given their express consent. You can choose to accept or decline cookies when you first access our Site. We require you to indicate your choice via an automated “pop-up” box, which explains the cookies we use and what we use them for. Most web browsers automatically accept cookies, but you can also usually modify your browser setting to decline cookies if you prefer. If you decline to accept our use of cookies or set your web browser to decline their use, you will have only limited functionality in the use of our Site. Our Privacy Policy contains further guidance on our use of cookies.</p>
+      <h2>7 Exclusion of Liability</h2>
+      <p>7.1 The material displayed on our Website is provided without any guarantees, conditions or warranties as to its accuracy, originality or completeness. To the extent permitted by law, we and third parties connected to us hereby expressly exclude:</p>
+      <p>7.1.1 all conditions, warranties and other terms which might otherwise be implied by statute, common law or the law of equity;</p>
+      <p>7.1.2 any liability for any direct, indirect or consequential loss or damage incurred by any user in connection with our Website or in connection with the use, inability to use, or results of the use of our Website, any websites linked to it and any materials posted on it, including:<br>
+        (a) loss of income or revenue;<br>
+        (b)loss of business;<br>
+        (c)loss of profits or contracts;<br>
+        (d)loss of anticipated savings;<br>
+        (e)loss of data;<br>
+        (f)loss of goodwill;<br>
+        (g)wasted management or office time; and<br>
+      (h)any other loss or damage of any kind, however arising and whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable, provided that this condition shall not prevent claims for loss of or damage to your tangible property or any other claims for direct financial loss that are not excluded by any of the categories set out above.</p>
+      <p>7.1.3 In jurisdictions which do not allow the exclusion or limitations of certain types of liability, InReach Ventures’s liability will be limited to the maximum extent permitted by law.</p>
+      <p>7.2 Nothing in these Terms of Use limits or excludes our liability for death or personal injury arising from our negligence or any other liability which cannot be excluded or limited under applicable law.</p>
+      <h2>8 Indemnity</h2>
+      <p>8.1 By using our Website, you agree to indemnify and hold harmless InReach Ventures from and against any and all losses, claims, damages, costs and expenses (including reasonable legal and accounting fees) that InReach Ventures may become obliged to pay, arising or resulting from your use of our Website, the Content, or your breach of these Terms of Use. InReach Ventures reserves the right to assume or participate, at your expense, in the investigation, settlement and defence of any such action or claim.</p>
+      <h2>9 Links to Third Party Websites</h2>
+      <p>9.1 Our Website may contain links to websites and resources maintained by third parties. These links are provided for your information only. We have no control over the contents of those websites and resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them. We are not responsible for the content, availability or privacy policies of those sites, and the existence of such links should not be considered an endorsement or recommendation of those sites or of any product or service offered on those sites or of any party that is associated with those sites.</p>
+      <p>9.2 Please note that other websites and resources linked to on our Website may be governed by separate terms and conditions, including privacy policies. You should refer to the applicable terms and conditions of those websites and resources before using them and you should direct any questions or comments about the linked website or resource to the appropriate website provider.</p>
+      <h2>10 Linking to Our Website</h2>
+      <p>10.1 You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.</p>
+      <p>10.2 You must not establish a link from any website that is not owned by you.</p>
+      <p>10.3 Our Website must not be framed on any other website, nor may you create a link to any part of our Website other than the home page. We reserve the right to withdraw linking permission without notice.</p>
+      <p>10.4 If you wish to make any use of material on our Website other than that set out above, please address your request to <a href="mailto:john@inreachventures.com">john@inreachventures.com</a></p>
+      <h2>11 Revision of Terms</h2>
+      <p>11.1 We may revise these Terms of Use at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we make, as they are binding on you. Some of the provisions contained in these terms of use may also be superseded by provisions or notices published elsewhere on our Website.</p>
+      <h2>12 Jurisdiction and Applicable Law</h2>
+      <p>12.1 The English courts will have non-exclusive jurisdiction over any claim arising from, or related to, a visit to our Website. We retain the right to bring proceedings against you for breach of these conditions in your country of residence or any other relevant country.</p>
+      <p>12.2 These terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.</p>
+      <h2>13 Miscellaneous</h2>
+      <p>13.1 Any failure by InReach Ventures to exercise any rights or enforce any of these Terms of Use shall not constitute a waiver of such rights or terms.</p>
+      <p>13.2 If any provision of these Terms of Use or their application in a particular circumstance is held to be invalid or unenforceable to any extent, the remainder of these Terms of Use, or the application of such provision in other circumstances, shall not be affected thereby, and each provision of these Terms of Use shall be valid and enforced to the fullest extent permitted by law.</p>
+      <p>13.3These Terms of Use (together with any documents referred to in them) constitute the entire agreement between you and InReach Ventures with regard to your use of our Website, and any and all other written or oral agreements or understandings previously existing between you and InReach Ventures, with respect to such use are superseded and cancelled.</p>
+      <h2>14 Your Concerns</h2>
+      <p>14.1 If you have any concerns about any material which appears on our Website, please contact <a href="mailto:john@inreachventures.com">john@inreachventures.com</a></p>
+    </div>  <!-- end .post-content -->
+  </div>
+  {% endblock %}
