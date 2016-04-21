@@ -1,70 +1,68 @@
 {% extends '_layouts/base.nunjucks' %}
-
 {% block config %}
   {# Correct base url pathing for this page #}
   {% set baseUrl = '../' %}
 {% endblock %}
-
 {% block content %}
-<div class="page-container">
-<h1>Cookies and Privacy Policy</h1>
-      <p>This Cookies and Privacy Policy (Cookies and Privacy Policy), together with our website terms of use&nbsp;(Terms of Use Policy) and any other documents referred to in it, set out the basis on which any&nbsp;personal data InReach Ventures LLP (InReach Ventures, us, we or our) collects from you, or that you&nbsp;provide to us, will be processed by us. InReach Ventures is committed to ensuring that your privacy is&nbsp;protected, so please read this Privacy Policy carefully to understand our views and practices regarding&nbsp;your personal data and how we will treat it.</p>
-<p>For the purposes of the Data Protection Act 1998 (the Act), the data controller is InReach Ventures&nbsp;LLP of registered office: c/o Rees Pollock, 4th Floor, 35 New Bridge Street, London EC4V 6BW.</p>
-<h2>1 WHAT TYPE OF INFORMATION DO WE COLLECT FROM YOU?</h2>
-<p>1.1 We may collect and process the following information from you:<br>
-1.1.1 information that you provide by filling in forms on our website&nbsp;<a href="http://www.inreachventures.com">inreachventures.com</a> (our Website);<br>
-1.1.2 if you contact us, we may keep a record of that correspondence; and<br>
-1.1.3 details of your visits to our Website and the resources that you access.</p>
-<p>&nbsp;</p>
-<h2>2 HOW DO WE USE YOUR PERSONAL DATA?</h2>
-<p>2.1 We use information held about you in the following ways:<br>
-2.1.1 to carry out our obligations arising from any contracts entered into between&nbsp;you and us;<br>
-2.1.2 to provide you with information, products or services that you request from&nbsp;us or which we feel may interest you, where you have consented to be&nbsp;contacted for such purposes;<br>
-2.1.3 to ensure that content from our Website is presented in the most effective&nbsp;manner for you and for your computer; and<br>
-2.1.4 to notify you about changes to our service.<br>
-2.2 We may also use your data, or permit selected third parties to use your data, to&nbsp;provide you with information about goods and services which may be of interest to&nbsp;you and we or they may contact you about these.<br>
-2.3 If you do not want us to use your data in this way, or to pass your details on to third&nbsp;parties for marketing purposes, please tick the relevant box situated on the form on&nbsp;which we collect your data.<br>
-&nbsp;</p>
-<h2>3 DISCLOSURE OF INFORMATION</h2>
-<p>3.1 We may disclose your personal information to any member of our group, which means&nbsp;our subsidiaries, our ultimate holding company and its subsidiaries, as defined in&nbsp;section 1159 of the United Kingdom Companies Act 2006. Website Cookies and Privacy Policy for InReach Ventures LLP<br>
-3.2 We may disclose your personal information to:<br>
-3.2.1 our affiliates or professional advisers;<br>
-3.2.2 persons or organisations who work on our behalf to provide a product or a&nbsp;service to you;<br>
-3.2.3 companies which perform marketing services on our behalf or with whom&nbsp;we have joint marketing agreements;<br>
-3.2.4 other companies who we believe may have products and services of interest&nbsp;to you.<br>
-3.3 We may also disclose your personal information to third parties if:<br>
-3.3.1 we sell or buy any business assets, in which case we may disclose your&nbsp;personal data to the prospective seller or buyer of such business or assets;<br>
-3.3.2 InReach Ventures LLP or substantially all of its assets are acquired by a third&nbsp;party, in which case personal data held by us about our customers will be&nbsp;one of the transferred assets;<br>
-3.3.3 we are under a duty to disclose or share your personal data in order to&nbsp;comply with any legal obligation, or in order to enforce or apply our terms of&nbsp;use and other agreements, or to protect the rights, property or safety of&nbsp;InReach Ventures LLP, our customers or others, including exchanging&nbsp;information with other companies and organisations for the purposes of&nbsp;fraud protection and credit risk reduction. InReach Ventures LLP Data
-Protection No is ZA167867 or you can contact the ICO on <a href="http://www.ico.gov.uk">www.ico.gov.uk</a>.<br>
-&nbsp;<br>
-</p><h2>4 HOW WE PROTECT YOUR DATA</h2>
-<p>4.1 The data that we collect from you may be transferred to and stored at a destination&nbsp;outside the European Economic Area (EEA). It may also be processed by staff&nbsp;operating outside the EEA who work for us or for one of our suppliers. Such staff may&nbsp;be engaged in, among other things, the fulfilment of contracts, the processing of&nbsp;details or the provision of support services. By submitting your personal data you&nbsp;agree to this transfer, storing or processing. We will take all steps reasonably&nbsp;necessary to ensure that your data is treated securely and in accordance with this&nbsp;Cookies and Privacy Policy.<br>
-4.2 Unfortunately, the transmission of information via the internet is not completely&nbsp;secure. Although we will do our best to protect your personal data, we cannot&nbsp;guarantee the security of your data transmitted to our &nbsp;ebsite. Any transmission is at&nbsp;your own risk. Once we have received your information, we will use strict procedures&nbsp;and security features to try to prevent unauthorised access.Website Cookies and Privacy Policy for InReach Ventures LLP<br>
-4.3 We take all reasonable care to ensure the security of the website and of your personal&nbsp;information from access by unauthorised persons and against unlawful processing,&nbsp;accidental loss, destruction and damage. We will not share your information other&nbsp;than as provided for in this Cookies and Privacy Policy or as required by law, court&nbsp;order or other government or law enforcement authorities.</p>
-<p>&nbsp;</p>
-<h2>5 IP ADDRESSES AND COOKIES</h2>
-<p>5.1 We may collect information about your computer, including where available your IP&nbsp;address, operating system and browser type, for system administration purposes.<br>
-5.2 Cookies contain information that is transferred to your computer’s hard drive. Cookies&nbsp;allow a web application to tailor its operations to your needs, likes and dislikes by&nbsp;gathering and remembering information about your preferences.<br>
-5.3 This statistical data does not identify an individual. We only use this information:<br>
-5.3.1 to gather information on IP addresses and pages visited;<br>
-5.3.2 to analyse trends;<br>
-5.3.3 to administer the website;<br>
-5.3.4 to track users’ movements on the website; and<br>
-5.3.5 for purposes of statistical analysis.<br>
-5.4 You can choose to accept or decline cookies. Most web browsers automatically accept&nbsp;cookies, but you can usually modify your browser setting to decline cookies if you&nbsp;prefer. This may prevent you from taking full advantage of our Website. Unless you&nbsp;have adjusted your browser settings so that it will refuse cookies, our system will issue&nbsp;cookies when you log on to our Website.</p>
-<p>&nbsp;</p>
-<h2>6 LINKS TO OTHER WEBSITES</h2>
-<p>6.1 This Cookies and Privacy Policy extends only to our Website and does not cover your&nbsp;use of, provision of data to and collection of data on any other website.<br>
-6.2 Our Website may from time to time contain links to and from other websites. If you&nbsp;follow a link to any of these websites please note that these websites have their own&nbsp;privacy policies and that we do not accept any responsibility or liability for these&nbsp;policies. You should always check these policies before you submit any personal data&nbsp;to these websites.</p>
-<h2>7 CHANGES TO THIS PRIVACY POLICY</h2>
-<p>7.1 Our Cookies and Privacy Policy may be reviewed and enhanced from time to time. The&nbsp;up-to-date version of our Privacy Policy is always available by applying in writing to&nbsp;InReach Ventures LLP, c/o WeWork, 22 Upper Ground, London SE1 9PD;&nbsp;or by emailing info@inreachventures.com . It may be necessary to contact you and&nbsp;obtain your consent regarding any significant changes to our Privacy Policy.<br>
-&nbsp;<br>
-</p><h2>8 YOUR RIGHT TO ACCESS YOUR INFORMATION</h2>
-<p>8.1 The Act gives you the right to obtain a copy of the personal data we hold about you.&nbsp;The fee for obtaining a copy of your information is £10 which will go towards meeting&nbsp;our costs in providing you with details of the information we hold about you. We can&nbsp;provide you with that information further to a request in writing to InReach Ventures&nbsp;LLP, c/o WeWork, 22 Upper Ground, London SE1 9PD providing us with&nbsp;sufficient information to identify you (we may need to request proof of identity in&nbsp;some instances). You have the right to request an amendment to any information that&nbsp;we hold and which you believe to be incorrect.<br>
-&nbsp;<br>
-</p><h2>9 CONTACT</h2>
-<p>9.1 Questions, comments and requests regarding this Cookies and Privacy Policy are&nbsp;welcomed and should be addressed to <a href="mailto:john@inreachventures.com">john@inreachventures.com</a><br>
-9.2 From time to time, InReach Ventures or third parties who we think have products or&nbsp;services of interest to you may send you emails, email newsletters or news updates&nbsp;alerting you to new features, products, promotions, or services pertaining to our&nbsp;Website. If you no longer wish to receive materials from us and/or from such third&nbsp;parties, you may opt-out of receiving these communications by writing to us at&nbsp;InReach Ventures LLP, c/o WeWork, 22 Upper Ground, London SE1 9PD&nbsp;or by emailing us your request to unsubscribe to <a href="mailto:john@inreachventures.com">john@inreachventures.com</a></p>
-</div>
+  <div class="page-container">
+    <h1>Cookies and Privacy Policy</h1>
+    <p>This Cookies and Privacy Policy (Cookies and Privacy Policy), together with our website terms of use&nbsp;(Terms of Use Policy) and any other documents referred to in it, set out the basis on which any&nbsp;personal data InReach Ventures LLP (InReach Ventures, us, we or our) collects from you, or that you&nbsp;provide to us, will be processed by us. InReach Ventures is committed to ensuring that your privacy is&nbsp;protected, so please read this Privacy Policy carefully to understand our views and practices regarding&nbsp;your personal data and how we will treat it.</p>
+    <p>For the purposes of the Data Protection Act 1998 (the Act), the data controller is InReach Ventures&nbsp;LLP of registered office: c/o Rees Pollock, 4th Floor, 35 New Bridge Street, London EC4V 6BW.</p>
+    <h2>1 WHAT TYPE OF INFORMATION DO WE COLLECT FROM YOU?</h2>
+    <p>1.1 We may collect and process the following information from you:<br>
+      1.1.1 information that you provide by filling in forms on our website&nbsp;<a href="http://www.inreachventures.com">inreachventures.com</a> (our Website);<br>
+      1.1.2 if you contact us, we may keep a record of that correspondence; and<br>
+    1.1.3 details of your visits to our Website and the resources that you access.</p>
+    <p>&nbsp;</p>
+    <h2>2 HOW DO WE USE YOUR PERSONAL DATA?</h2>
+    <p>2.1 We use information held about you in the following ways:<br>
+      2.1.1 to carry out our obligations arising from any contracts entered into between&nbsp;you and us;<br>
+      2.1.2 to provide you with information, products or services that you request from&nbsp;us or which we feel may interest you, where you have consented to be&nbsp;contacted for such purposes;<br>
+      2.1.3 to ensure that content from our Website is presented in the most effective&nbsp;manner for you and for your computer; and<br>
+      2.1.4 to notify you about changes to our service.<br>
+      2.2 We may also use your data, or permit selected third parties to use your data, to&nbsp;provide you with information about goods and services which may be of interest to&nbsp;you and we or they may contact you about these.<br>
+      2.3 If you do not want us to use your data in this way, or to pass your details on to third&nbsp;parties for marketing purposes, please tick the relevant box situated on the form on&nbsp;which we collect your data.<br>
+    &nbsp;</p>
+    <h2>3 DISCLOSURE OF INFORMATION</h2>
+    <p>3.1 We may disclose your personal information to any member of our group, which means&nbsp;our subsidiaries, our ultimate holding company and its subsidiaries, as defined in&nbsp;section 1159 of the United Kingdom Companies Act 2006. Website Cookies and Privacy Policy for InReach Ventures LLP or InReach Data Limited, our associated company.<br>
+      3.2 We may disclose your personal information to:<br>
+      3.2.1 our affiliates or professional advisers;<br>
+      3.2.2 persons or organisations who work on our behalf to provide a product or a&nbsp;service to you;<br>
+      3.2.3 companies which perform marketing services on our behalf or with whom&nbsp;we have joint marketing agreements;<br>
+      3.2.4 other companies who we believe may have products and services of interest&nbsp;to you.<br>
+      3.3 We may also disclose your personal information to third parties if:<br>
+      3.3.1 we sell or buy any business assets, in which case we may disclose your&nbsp;personal data to the prospective seller or buyer of such business or assets;<br>
+      3.3.2 InReach Ventures LLP or substantially all of its assets are acquired by a third&nbsp;party, in which case personal data held by us about our customers will be&nbsp;one of the transferred assets;<br>
+      3.3.3 we are under a duty to disclose or share your personal data in order to&nbsp;comply with any legal obligation, or in order to enforce or apply our terms of&nbsp;use and other agreements, or to protect the rights, property or safety of&nbsp;InReach Ventures LLP, our customers or others, including exchanging&nbsp;information with other companies and organisations for the purposes of&nbsp;fraud protection and credit risk reduction. InReach Ventures LLP's Data
+      Protection No is ZA167867 or you can contact the ICO on <a href="http://www.ico.org.uk">www.ico.org.uk</a>.<br>
+      &nbsp;<br>
+    </p><h2>4 HOW WE PROTECT YOUR DATA</h2>
+    <p>4.1 The data that we collect from you may be transferred to and stored at a destination&nbsp;outside the European Economic Area (EEA). It may also be processed by staff&nbsp;operating outside the EEA who work for us or for one of our suppliers. Such staff may&nbsp;be engaged in, among other things, the fulfilment of contracts, the processing of&nbsp;details or the provision of support services. By submitting your personal data you&nbsp;agree to this transfer, storing or processing. We will take all steps reasonably&nbsp;necessary to ensure that your data is treated securely and in accordance with this&nbsp;Cookies and Privacy Policy.<br>
+      4.2 Unfortunately, the transmission of information via the internet is not completely&nbsp;secure. Although we will do our best to protect your personal data, we cannot&nbsp;guarantee the security of your data transmitted to our &nbsp;website. Any transmission is at&nbsp;your own risk. Once we have received your information, we will use strict procedures&nbsp;and security features to try to prevent unauthorised access.<br>
+    4.3 We take all reasonable care to ensure the security of the website and of your personal&nbsp;information from access by unauthorised persons and against unlawful processing,&nbsp;accidental loss, destruction and damage. We will not share your information other&nbsp;than as provided for in this Cookies and Privacy Policy or as required by law, court&nbsp;order or other government or law enforcement authorities.</p>
+    <p>&nbsp;</p>
+    <h2>5 IP ADDRESSES AND COOKIES</h2>
+    <p>5.1 We may collect information about your computer, including where available your IP&nbsp;address, operating system and browser type, for system administration purposes.<br>
+      5.2 Cookies contain information that is transferred to your computer’s hard drive. Cookies&nbsp;allow a web application to tailor its operations to your needs, likes and dislikes by&nbsp;gathering and remembering information about your preferences.<br>
+      5.3 This statistical data does not identify an individual. We only use this information:<br>
+      5.3.1 to gather information on IP addresses and pages visited;<br>
+      5.3.2 to analyse trends;<br>
+      5.3.3 to administer the website;<br>
+      5.3.4 to track users’ movements on the website; and<br>
+      5.3.5 for purposes of statistical analysis.<br>
+    5.4 You can choose to accept or decline cookies. Most web browsers automatically accept&nbsp;cookies, but you can usually modify your browser setting to decline cookies if you&nbsp;prefer. This may prevent you from taking full advantage of our Website. Unless you&nbsp;have adjusted your browser settings so that it will refuse cookies, our system will issue&nbsp;cookies when you log on to our Website.</p>
+    <p>&nbsp;</p>
+    <h2>6 LINKS TO OTHER WEBSITES</h2>
+    <p>6.1 This Cookies and Privacy Policy extends only to our Website and does not cover your&nbsp;use of, provision of data to and collection of data on any other website.<br>
+    6.2 Our Website may from time to time contain links to and from other websites. If you&nbsp;follow a link to any of these websites please note that these websites have their own&nbsp;privacy policies and that we do not accept any responsibility or liability for these&nbsp;policies. You should always check these policies before you submit any personal data&nbsp;to these websites.</p>
+    <h2>7 CHANGES TO THIS PRIVACY POLICY</h2>
+    <p>7.1 Our Cookies and Privacy Policy may be reviewed and enhanced from time to time. The&nbsp;up-to-date version of our Privacy Policy is always available by applying in writing to&nbsp;InReach Ventures LLP, c/o WeWork, 22 Upper Ground, London SE1 9PD;&nbsp;or by emailing john@inreachventures.com . It may be necessary to contact you and&nbsp;obtain your consent regarding any significant changes to our Privacy Policy.<br>
+      &nbsp;<br>
+    </p><h2>8 YOUR RIGHT TO ACCESS YOUR INFORMATION</h2>
+    <p>8.1 The Act gives you the right to obtain a copy of the personal data we hold about you.&nbsp;The fee for obtaining a copy of your information is £10 which will go towards meeting&nbsp;our costs in providing you with details of the information we hold about you. We can&nbsp;provide you with that information further to a request in writing to InReach Ventures&nbsp;LLP, c/o WeWork, 22 Upper Ground, London SE1 9PD providing us with&nbsp;sufficient information to identify you (we may need to request proof of identity in&nbsp;some instances). You have the right to request an amendment to any information that&nbsp;we hold and which you believe to be incorrect.<br>
+      &nbsp;<br>
+    </p><h2>9 CONTACT</h2>
+    <p>9.1 Questions, comments and requests regarding this Cookies and Privacy Policy are&nbsp;welcomed and should be addressed to <a href="mailto:john@inreachventures.com">john@inreachventures.com</a><br>
+    9.2 From time to time, InReach Ventures or third parties who we think have products or&nbsp;services of interest to you may send you emails, email newsletters or news updates&nbsp;alerting you to new features, products, promotions, or services pertaining to our&nbsp;Website. If you no longer wish to receive materials from us and/or from such third&nbsp;parties, you may opt-out of receiving these communications by writing to us at&nbsp;InReach Ventures LLP, c/o WeWork, 22 Upper Ground, London SE1 9PD&nbsp;or by emailing us your request to unsubscribe to <a href="mailto:john@inreachventures.com">john@inreachventures.com</a></p>
+  </div>
 {% endblock %}
