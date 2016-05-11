@@ -1,0 +1,29 @@
+{% extends '_layouts/base.nunjucks' %}
+
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+
+{% block content %}
+<div class="page-container">
+<h1>Electronic Communications Disclaimer</h1>
+<p>This electronic communication is issued by InReach Ventures LLP who is an Appointed
+   Representative of Sturgeon Ventures LLP who is authorised and regulated by the Financial Conduct
+   Authority FRN # 452811. Any unauthorised use or interception of this e-mail is illegal. If this e-mail is
+   not intended for you, you may not copy, distribute or disclose the contents to anyone. Save for
+   bona fide company matters, InReach Ventures LLP does not accept any responsibility for the
+   opinions expressed in this e-mail.</p>
+<p>InReach Ventures LLP cannot guarantee the accuracy or completeness of this e-mail as information
+   could be intercepted, corrupted, lost, destroyed, and incomplete and / or arrive late. It could contain
+   viruses when transmitted over the public networks. If you suspect that the e-mail may have been
+   intercepted or amended, please contact the sender. This message has been scanned for viruses. You
+   should virus-check attachments before opening. When addressed to InReach Ventures LLP’s clients,
+   any opinion or advice contained in this e-mail is subject to InReach Ventures LLP’s terms of business.
+   This e-mail is provided for informational purposes only and should not be construed as a solicitation
+   or offer to buy or sell securities or related financial instruments.</p>
+<p>Contact: InReach Ventures LLP, WeWork, 22 Upper Ground, London, SE1 9PD</p>
+<p>Tel: + 44 (0) 203 808 9951</p>
+<p>For further information visit our website <a href="http://www.inreachventures.com">inreachventures.com</a>.</p>
+</div>
+{% endblock %}
