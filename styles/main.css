@@ -9237,6 +9237,12 @@ iframe {
   max-height: 770px;
 }
 
+.carlo-headshot {
+  background-image: url("/images/carlo.jpg");
+  max-width: 770px;
+  max-height: 770px;
+}
+
 .murat-headshot {
   background-image: url("/images/murat.jpg");
   max-width: 770px;
