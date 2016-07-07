@@ -31,6 +31,9 @@
 .navid-headshot {
   @include headshot("navid.jpg")
 }
+.carlo-headshot {
+  @include headshot("carlo.jpg")
+}
 .murat-headshot {
   @include headshot("murat.jpg")
 }
