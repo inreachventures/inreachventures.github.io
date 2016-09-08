@@ -9336,7 +9336,7 @@ iframe {
 }
 
 .container.bloc-lg {
-  padding-bottom: 50px;
+  padding: 75px 0 10px 0;
 }
 
 .social-links {
@@ -9355,7 +9355,7 @@ iframe {
 }
 
 .about-section {
-  margin-top: 90px;
+  margin-top: 75px;
 }
 
 .about-section .about-header h3 {
