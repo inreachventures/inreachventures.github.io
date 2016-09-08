@@ -9331,6 +9331,14 @@ iframe {
   margin-right: auto;
 }
 
+.small-padding-top {
+  padding-top: 0;
+}
+
+.container.bloc-lg {
+  padding-bottom: 50px;
+}
+
 .social-links {
   font-weight: bold;
   font-size: 18px;
@@ -9343,6 +9351,67 @@ iframe {
 @media (min-width: 1536px) {
   .bg-team-3 {
     min-height: 700px;
+  }
+}
+
+.about-section {
+  margin-top: 90px;
+}
+
+.about-section .about-header h3 {
+  font-size: 28px;
+}
+
+.about-section .about-description p {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.our-team {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.person-bloc p {
+  font-size: 18px;
+}
+
+.person-bloc .person-image {
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50%;
+  margin-bottom: 40px;
+}
+
+.person-bloc .person-image.john {
+  background-image: url("/images/john.png");
+}
+
+.person-bloc .person-image.roberto {
+  background-image: url("/images/roberto.png");
+}
+
+.person-bloc .person-image.ben {
+  background-image: url("/images/ben.png");
+}
+
+.person-bloc .person-image.karolina {
+  background-image: url("/images/karolina.png");
+}
+
+.person-bloc .person-image.walter {
+  background-image: url("/images/walter.png");
+}
+
+.person-bloc .person-image.adam {
+  background-image: url("/images/adam.png");
+}
+
+@media (max-width: 768px) {
+  .about-section {
+    padding: 20px;
+    margin-top: 0;
   }
 }
 
