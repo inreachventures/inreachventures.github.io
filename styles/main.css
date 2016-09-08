@@ -9335,6 +9335,10 @@ iframe {
   padding-top: 0;
 }
 
+.large-padding-bottom {
+  padding-bottom: 80px;
+}
+
 .container.bloc-lg {
   padding: 75px 0 10px 0;
 }
@@ -9365,6 +9369,7 @@ iframe {
 .about-section .about-description p {
   font-size: 20px;
   margin-top: 20px;
+  padding: 0 20px;
 }
 
 .our-team {
