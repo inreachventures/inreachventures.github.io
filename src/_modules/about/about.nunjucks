@@ -230,7 +230,7 @@
             Adam Dossa
           </h3>
           <h4 class="mg-md tc-green-ryb  text-left">
-            Lead Back-end Engineer
+            Lead Engineer
           </h4>
           <div class="divider-h">
             <span class="divider"></span>
@@ -249,6 +249,80 @@
     </div>
   </div>
   <!-- bloc-18 END -->
+</div>
+
+<div class="bloc-group last-bloc-group">
+  <!-- bloc-19 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-19">
+    <div class="container bloc-lg small-padding-top">
+      <div class="row">
+        <div class="col-sm-12 person-bloc large-padding-bottom">
+          <div class="person-image ghyslain"></div>
+          <h3 class="mg-md tc-green-ryb  text-left">
+            Ghyslain Gaillard
+          </h3>
+          <h4 class="mg-md tc-green-ryb  text-left">
+            Data Scientist
+          </h4>
+          <div class="divider-h">
+            <span class="divider"></span>
+          </div>
+          <p class="mg-md">
+            From his dual Masters degree, Ghyslain developed strong foundations in machine learning and business analytics.
+          </p>
+          <p class="mg-md">
+            Passionate about entrepreneurship and finance, Ghyslain joined InReach Ventures to help transform the industry of venture capital through the development of predictive models.
+          </p>
+          <p class="mg-md">
+            Ghyslain holds an MSc in Engineering Sciences from École Centrale de Lyon and an MSc in Business Analytics and Finance from Southampton University.
+          </p>
+          <ul class="list-inline social-links">
+            <li><a class="social-md" href="https://www.linkedin.com/in/ghyslaingaillard/" target="_blank"><span class="fa linkedin-link icon-2130"></span></a></li>
+            <li><a class="social-md" href="https://angel.co/ghyslain-gaillard" target="_blank"><span class="fa angel-link icon-2130"></span></a></li>
+            <li><a class="social-md" href="https://github.com/ghyslain" target="_blank"><span class="fa github-link icon-2130"></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- bloc-19 END -->
+
+  <!-- bloc-20 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-20">
+    <div class="container bloc-lg small-padding-top">
+      <div class="row">
+        <div class="col-sm-12 person-bloc large-padding-bottom">
+          <div class="person-image DIG"></div>
+          <h3 class="mg-md tc-green-ryb  text-left">
+            DIG
+          </h3>
+          <h4 class="mg-md tc-green-ryb  text-left">
+            Partner AI
+          </h4>
+          <div class="divider-h">
+            <span class="divider"></span>
+          </div>
+          <p class="mg-md">
+            DIG replaces the need for venture firms to hire associates and principals. Using AI to find top European companies to invest in, DIG aggregates the exploding mass of data that people and organisations leave behind and structures it into prioritised, qualified deal-flow.
+          </p>
+          <p class="mg-md">
+            References:
+          </p>
+          <p class="mg-md">
+            "DIG is the biggest geek you will ever meet." [Roberto Bonanzinga]
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- bloc-20 END -->
+
+  <!-- bloc-21 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-21">
+  </div>
+  <!-- bloc-21 END -->
+
+
 </div>
 
 {% endmacro %}

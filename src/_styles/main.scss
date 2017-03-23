@@ -115,6 +115,11 @@ dl{
   display:table;
   table-layout: fixed;
 }
+
+.last-bloc-group{
+  margin-bottom: 50px;
+}
+
 .bloc-group .bloc{
   position:relative;
   display: table-cell;

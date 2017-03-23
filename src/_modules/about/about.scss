@@ -89,6 +89,26 @@
     &.adam {
       background-image: url('/images/adam.png');
     }
+
+    &.ghyslain {
+      background-image: url('/images/ghyslain.png');
+    }
+
+    &.DIG {
+      background-image: url('/images/DIG.png');
+    }
+  }
+}
+
+#bloc-20 {
+  padding-left: 30px;
+  padding-right: 30px;
+  &>div.container {
+    padding-left: 20px;
+    padding-right: 20px;
+    .row {
+      background: #f2fbeb;
+    }
   }
 }
 
