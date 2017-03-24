@@ -100,13 +100,16 @@
   }
 }
 
-#bloc-20 {
+.DIG {
   padding-left: 30px;
   padding-right: 30px;
   &>div.container {
     padding-left: 20px;
     padding-right: 20px;
 
+    .row {
+      background: #f2fbeb;
+    }
   }
 }
 

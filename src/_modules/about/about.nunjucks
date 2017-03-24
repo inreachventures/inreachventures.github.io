@@ -288,7 +288,7 @@
   <!-- bloc-19 END -->
 
   <!-- bloc-20 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-20">
+  <div class="bloc l-bloc bgc-white bloc-tile-3 DIG" id="bloc-20">
     <div class="container bloc-lg small-padding-top">
       <div class="row">
         <div class="col-sm-12 person-bloc large-padding-bottom">
