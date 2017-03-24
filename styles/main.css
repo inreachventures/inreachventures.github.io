@@ -9425,14 +9425,18 @@ iframe {
   background-image: url("/images/DIG.png");
 }
 
-#bloc-20 {
+.DIG {
   padding-left: 30px;
   padding-right: 30px;
 }
 
-#bloc-20 > div.container {
+.DIG > div.container {
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.DIG > div.container .row {
+  background: #f2fbeb;
 }
 
 @media (max-width: 768px) {
