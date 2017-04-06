@@ -9425,9 +9425,18 @@ iframe {
   background-image: url("/images/DIG.png");
 }
 
+.person-bloc .person-image.DIG:hover {
+  background-image: url("/images/pushAllButtons.gif");
+}
+
+.person-image.DIG {
+  margin-bottom: 30px;
+}
+
 .DIG {
   padding-left: 30px;
   padding-right: 30px;
+  margin-top: 10px;
 }
 
 .DIG > div.container {
