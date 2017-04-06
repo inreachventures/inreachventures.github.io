@@ -97,12 +97,21 @@
     &.DIG {
       background-image: url('/images/DIG.png');
     }
+
+    &.DIG:hover {
+      background-image: url('/images/pushAllButtons.gif');
+    }
   }
+}
+
+.person-image.DIG {
+  margin-bottom: 30px;
 }
 
 .DIG {
   padding-left: 30px;
   padding-right: 30px;
+  margin-top: 10px;
   &>div.container {
     padding-left: 20px;
     padding-right: 20px;
