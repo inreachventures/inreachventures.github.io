@@ -37,6 +37,9 @@
 .murat-headshot {
   @include headshot("murat.jpg")
 }
+.andrius-headshot {
+  @include headshot("andrius.jpg")
+}
 .overlay-1 {
   @include overlay(1)
 }
