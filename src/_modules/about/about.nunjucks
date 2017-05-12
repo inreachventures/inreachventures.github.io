@@ -17,18 +17,6 @@
 </div>
 <!-- about END -->
 
-<!-- bloc-12 -->
-<div class="bloc bgc-white bg-team-3 d-bloc" id="bloc-12">
-  <div class="container bloc-lg">
-    <div class="row">
-      <div class="col-sm-12">
-        <span class="empty-column"></span>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- bloc-12 END -->
-
 <div class="bloc">
   <div class="row about-section">
     <div class="col-md-4 about-header tc-green-ryb">

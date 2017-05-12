@@ -40,6 +40,9 @@
 .andrius-headshot {
   @include headshot("andrius3.jpg")
 }
+.chris-headshot {
+  @include headshot("chris.png")
+}
 .overlay-1 {
   @include overlay(1)
 }
