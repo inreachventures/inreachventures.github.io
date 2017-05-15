@@ -9259,6 +9259,12 @@ iframe {
   max-height: 770px;
 }
 
+.chris-headshot {
+  background-image: url("/images/chris.png");
+  max-width: 770px;
+  max-height: 770px;
+}
+
 .overlay-1 {
   background-image: url("/images/overlays/InReach_overlay_1.png");
   background-repeat: no-repeat;
