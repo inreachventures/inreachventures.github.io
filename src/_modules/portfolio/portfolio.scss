@@ -37,6 +37,9 @@
 .murat-headshot {
   @include headshot("murat.jpg")
 }
+.miska-headshot {
+  @include headshot("miska.jpg")
+}
 .andrius-headshot {
   @include headshot("andrius3.jpg")
 }

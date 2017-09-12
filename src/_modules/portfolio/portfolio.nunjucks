@@ -27,6 +27,38 @@
       <div class="row">
         <div class="col-sm-12">
           <h2 class="text-center mg-md tc-green-ryb ">
+            <strong>Miska Kaipiainen</strong>
+          </h2>
+          <h3 class="text-center mg-md tc-green-ryb">
+            CEO and Founder of <a href="https://kontena.io" target="_blank">Kontena</a>
+          </h3>
+          <h4 class="mg-md text-center tc-manatee">
+            <span class="location"></span> Helsinki, Finland
+          </h4>
+          <div class="divider-h">
+            <span class="divider divider-half"></span>
+          </div>
+          <p class="text-center">
+            <i>"From networking ships, it was inevitable that Miska would found Kontena: the most user friendly open source container platform for orchestrating applications running on Docker."</i>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bloc bgc-white bloc-tile-2 miska-headshot d-bloc b-parallax bg-r-edge" id="bloc-7">
+    <div class="b-parallax bg-r-edge overlay-5"></div>
+  </div>
+</div>
+
+<div class='bloc-group'>
+  <div class="bloc bgc-white bloc-tile-2 murat-headshot d-bloc b-parallax bg-l-edge" id="bloc-7">
+    <div class="b-parallax bg-l-edge overlay-5"></div>
+  </div>
+  <div class="bloc l-bloc bgc-white bloc-tile-2" id="bloc-8">
+    <div class="container bloc-lg">
+      <div class="row">
+        <div class="col-sm-12">
+          <h2 class="text-center mg-md tc-green-ryb ">
             <strong>Murat Multu</strong>
           </h2>
           <h3 class="text-center mg-md tc-green-ryb">
@@ -45,16 +77,9 @@
       </div>
     </div>
   </div>
-  <div class="bloc bgc-white bloc-tile-2 murat-headshot d-bloc b-parallax bg-r-edge" id="bloc-7">
-    <div class="b-parallax bg-r-edge overlay-5"></div>
-  </div>
 </div>
 
 <div class='bloc-group'>
-  <div class="bloc bgc-white bloc-tile-2 andrius-headshot d-bloc b-parallax bg-l-edge" id="bloc-7">
-    <div class="b-parallax bg-l-edge overlay-2"></div>
-  </div>
-
   <div class="bloc l-bloc bgc-white bloc-tile-2" id="bloc-8">
     <div class="container bloc-lg">
       <div class="row">
@@ -78,9 +103,16 @@
       </div>
     </div>
   </div>
+  <div class="bloc bgc-white bloc-tile-2 andrius-headshot d-bloc b-parallax bg-r-edge" id="bloc-7">
+    <div class="b-parallax bg-r-edge overlay-2"></div>
+  </div>
 </div>
 
 <div class='bloc-group'>
+  <div class="bloc bgc-white bloc-tile-2 b-parallax chris-headshot d-bloc bg-l-edge" id="bloc-10">
+    <div class="b-parallax bg-l-edge overlay-3"></div>
+  </div>
+
   <div class="bloc l-bloc bgc-white bloc-tile-2 tc-manatee" id="bloc-9">
     <div class="container bloc-lg">
       <div class="row">
@@ -105,16 +137,10 @@
     </div>
   </div>
 
-  <div class="bloc bgc-white bloc-tile-2 b-parallax chris-headshot d-bloc bg-r-edge" id="bloc-10">
-    <div class="b-parallax bg-r-edge overlay-3"></div>
-  </div>
+
 </div>
 
 <div class='bloc-group'>
-  <div class="bloc bgc-white bloc-tile-2 b-parallax eduardo-headshot d-bloc bg-l-edge" id="bloc-10">
-    <div class="b-parallax bg-l-edge overlay-3"></div>
-  </div>
-
   <div class="bloc l-bloc bgc-white bloc-tile-2 tc-manatee" id="bloc-9">
     <div class="container bloc-lg">
       <div class="row">
@@ -138,9 +164,18 @@
       </div>
     </div>
   </div>
+
+  <div class="bloc bgc-white bloc-tile-2 b-parallax eduardo-headshot d-bloc bg-r-edge" id="bloc-10">
+    <div class="b-parallax bg-r-edge overlay-3"></div>
+  </div>
 </div>
 
 <div class='bloc-group'>
+
+  <div class="bloc bgc-white bloc-tile-2 b-parallax carlo-headshot d-bloc bg-l-edge" id="bloc-10">
+    <div class="b-parallax bg-l-edge overlay-3"></div>
+  </div>
+
   <div class="bloc l-bloc bgc-white bloc-tile-2 tc-manatee" id="bloc-9">
     <div class="container bloc-lg">
       <div class="row">
@@ -164,19 +199,9 @@
       </div>
     </div>
   </div>
-
-  <div class="bloc bgc-white bloc-tile-2 b-parallax carlo-headshot d-bloc bg-r-edge" id="bloc-10">
-    <div class="b-parallax bg-r-edge overlay-3"></div>
-  </div>
-
 </div>
 
 <div class='bloc-group'>
-
-  <div class="bloc bgc-white bloc-tile-2 b-parallax navid-headshot d-bloc bg-l-edge" id="bloc-10">
-    <div class="b-parallax bg-l-edge overlay-3"></div>
-  </div>
-
   <div class="bloc l-bloc bgc-white bloc-tile-2 tc-manatee" id="bloc-9">
     <div class="container bloc-lg">
       <div class="row">
@@ -199,6 +224,10 @@
         </div>
       </div>
     </div>
+  </div>
+
+  <div class="bloc bgc-white bloc-tile-2 b-parallax navid-headshot d-bloc bg-r-edge" id="bloc-10">
+    <div class="b-parallax bg-r-edge overlay-3"></div>
   </div>
 </div>
 {% endmacro %}
