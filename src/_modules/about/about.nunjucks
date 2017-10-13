@@ -176,70 +176,6 @@
   </div>
   <!-- bloc-16 END -->
 
-  <!-- bloc-17 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-17">
-    <div class="container bloc-lg small-padding-top">
-      <div class="row">
-        <div class="col-sm-12 person-bloc large-padding-bottom">
-          <div class="person-image walter"></div>
-          <h3 class="mg-md tc-green-ryb  text-left">
-            Walter Bellante
-          </h3>
-          <h4 class="mg-md tc-green-ryb  text-left">
-            Lead Web Engineer
-          </h4>
-          <div class="divider-h">
-            <span class="divider"></span>
-          </div>
-          <p class="mg-md">
-            Former Senior Frontend Developer at Kano Computing and previously Co-Founder at PanPan.
-          </p>
-          <p class="mg-md">
-            Walter is passionate about creating applications to deliver the best user experience. He is responsible for building the frontend of the InReach platform.
-          </p>
-          <ul class="list-inline social-links">
-            <li><a class="social-md" href="https://twitter.com/walbell" target="_blank"><span class="twitter-link icon-2130"></span></a></li>
-            <li><a class="social-md" href="https://www.linkedin.com/in/walter-bellante-98009644" target="_blank"><span class="fa linkedin-link icon-2130"></span></a></li>
-            <li><a class="social-md" href="https://github.com/walbell" target="_blank"><span class="fa github-link icon-2130"></span></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- bloc-17 END -->
-
-  <!-- bloc-18 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-18">
-    <div class="container bloc-lg small-padding-top">
-      <div class="row">
-        <div class="col-sm-12 person-bloc large-padding-bottom">
-          <div class="person-image adam"></div>
-          <h3 class="mg-md tc-green-ryb  text-left">
-            Adam Dossa
-          </h3>
-          <h4 class="mg-md tc-green-ryb  text-left">
-            Lead Engineer
-          </h4>
-          <div class="divider-h">
-            <span class="divider"></span>
-          </div>
-          <p class="mg-md">
-            Previously an Executive Director at Morgan Stanley, Adam has spent over a decade working in financial services technology.          </p>
-          <p class="mg-md">
-            After completing a Masters in Machine Learning at Columbia, Adam has now begun a new entrepreneurial phase of his career at InReach Ventures, focussed on using machine learning analytics to distill and quantify complex, unstructured data for the InReach platform.          </p>
-          <ul class="list-inline social-links">
-            <li><a class="social-md" href="https://uk.linkedin.com/in/adam-dossa" target="_blank"><span class="fa linkedin-link icon-2130"></span></a></li>
-            <li><a class="social-md" href="https://angel.co/adam-dossa-1" target="_blank"><span class="fa angel-link icon-2130"></span></a></li>
-            <li><a class="social-md" href="https://github.com/adamdossa" target="_blank"><span class="fa github-link icon-2130"></span></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- bloc-18 END -->
-</div>
-
-<div class="bloc-group last-bloc-group">
   <!-- bloc-19 -->
   <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-19">
     <div class="container bloc-lg small-padding-top">
@@ -276,7 +212,44 @@
   <!-- bloc-19 END -->
 
   <!-- bloc-20 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3 DIG" id="bloc-20">
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-20">
+    <div class="container bloc-lg small-padding-top">
+      <div class="row">
+        <div class="col-sm-12 person-bloc large-padding-bottom">
+          <div class="person-image marina"></div>
+          <h3 class="mg-md tc-green-ryb  text-left">
+            Marina Pritchard
+          </h3>
+          <h4 class="mg-md tc-green-ryb  text-left">
+            Investment and Marketing Analyst
+          </h4>
+          <div class="divider-h">
+            <span class="divider"></span>
+          </div>
+          <p class="mg-md">
+            Marina studied Modern Languages, and has developed a keen interest in culture, language and the arts. Marina is fluent in Spanish, Italian, English and French.
+          </p>
+          <p class="mg-md">
+            At InReach, she is responsible for the initial interaction with entrepreneurs, helping the investment team manage the process and control the quality of DIG’s data.
+          </p>
+          <ul class="list-inline social-links">
+            <li><a class="social-md" href="https://twitter.com/MarinaPrit" target="_blank"><span class="twitter-link icon-2130"></span></a></li>
+            <li><a class="social-md" href="https://www.facebook.com/marina.pritchard" target="_blank"><span class="fa fb-link icon-2130"></span></a></li>
+            <li><a class="social-md" href="https://www.linkedin.com/in/marina-pritchard-428042148/" target="_blank"><span class="fa linkedin-link icon-2130"></span></a></li>
+            <li><a class="social-md" href="https://angel.co/marina-pritchard-1?public_profile=1" target="_blank"><span class="fa angel-link icon-2130"></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- bloc-20 END -->
+
+</div>
+
+<div class="bloc-group last-bloc-group">
+
+  <!-- bloc-21 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3 DIG" id="bloc-21">
     <div class="container bloc-lg small-padding-top">
       <div class="row">
         <div class="col-sm-12 person-bloc large-padding-bottom">
@@ -303,12 +276,17 @@
       </div>
     </div>
   </div>
-  <!-- bloc-20 END -->
-
-  <!-- bloc-21 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-21">
-  </div>
   <!-- bloc-21 END -->
+
+  <!-- bloc-22 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-22">
+  </div>
+  <!-- bloc-22 END -->
+
+  <!-- bloc-23 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-23">
+  </div>
+  <!-- bloc-23 END -->
 
 
 </div>
