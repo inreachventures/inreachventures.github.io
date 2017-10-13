@@ -9439,6 +9439,10 @@ iframe {
   background-image: url("/images/ghyslain.png");
 }
 
+.person-bloc .person-image.marina {
+  background-image: url("/images/marina.jpg");
+}
+
 .person-bloc .person-image.DIG {
   background-image: url("/images/DIG.png");
 }
