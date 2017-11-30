@@ -249,7 +249,38 @@
 <div class="bloc-group last-bloc-group">
 
   <!-- bloc-21 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3 DIG" id="bloc-21">
+  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-21">
+    <div class="container bloc-lg small-padding-top">
+      <div class="row">
+        <div class="col-sm-12 person-bloc large-padding-bottom">
+          <div class="person-image hugo"></div>
+          <h3 class="mg-md tc-green-ryb  text-left">
+            Hugo Jobling
+          </h3>
+          <h4 class="mg-md tc-green-ryb  text-left">
+            Lead Front-end Developer
+          </h4>
+          <div class="divider-h">
+            <span class="divider"></span>
+          </div>
+          <p class="mg-md">
+            Hugo started out in the the technology industry as a journalist. In hindsight, it was only a matter of time before he grew tired of commentating and became a participant.
+          </p>
+          <p class="mg-md">
+            Today Hugo spends as much time thinking about code as he does actually writing it. He uses his knowledge to design and build software that respects its users' time and attention.
+          </p>
+          <ul class="list-inline social-links">
+            <li><a class="social-md" href="https://twitter.com/dissimile" target="_blank"><span class="twitter-link icon-2130"></span></a></li>
+            <li><a class="social-md" href="https://github.com/hugo" target="_blank"><span class="fa github-link icon-2130"></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- bloc-21 -->
+
+  <!-- bloc-22 -->
+  <div class="bloc l-bloc bgc-white bloc-tile-3 DIG" id="bloc-22">
     <div class="container bloc-lg small-padding-top">
       <div class="row">
         <div class="col-sm-12 person-bloc large-padding-bottom">
@@ -275,11 +306,6 @@
         </div>
       </div>
     </div>
-  </div>
-  <!-- bloc-21 END -->
-
-  <!-- bloc-22 -->
-  <div class="bloc l-bloc bgc-white bloc-tile-3" id="bloc-22">
   </div>
   <!-- bloc-22 END -->
 
