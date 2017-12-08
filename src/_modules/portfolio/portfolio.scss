@@ -49,6 +49,9 @@
 .aaron-headshot {
   @include headshot("aaron.jpg")
 }
+.istvan-headshot {
+  @include headshot("istvan.jpg")
+}
 .overlay-1 {
   @include overlay(1)
 }
