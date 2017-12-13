@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Miska Kaipiainen",
+    "role": "CEO and Founder",
+    "href": "https://kontena.io",
+    "company": "Kontena",
+    "location": "Helsinki, Finland",
+    "description": "From networking ships, it was inevitable that Miska would found Kontena: the most user friendly open source container platform for orchestrating applications running on Docker.",
+    "img": "miska"
+  },
+  {
+    "name": "Murat Multu",
+    "role": "CEO and Founder",
+    "href": "https://marvelapp.com",
+    "company": "Marvel",
+    "location": "London, UK",
+    "description": "Murat co-founded Marvel in the summer of 2013 as a simple way for designers to showcase interactive prototypes instead of lifeless, static mockups. Since then the vision has grown and now Marvel has its sights set on helping the world bring digital ideas to life.",
+    "img":"murat"
+  },
+  {
+    "name": "Andrius Šlimas",
+    "role": "CEO and Founder",
+    "href": "https://oberlo.com",
+    "company": "Oberlo",
+    "location": "Vilnius, Lithuania",
+    "description": "Having worked in e-commerce for years, Andrius, his brother Tomas, and co-founders are democratising drop-shipping for online store-owners all over the world.",
+    "img": "andrius"
+  },
+  {
+    "name": "Christopher Kahler",
+    "role": "CEO and Founder",
+    "href": "https://www.qriously.com",
+    "company": "Qriously",
+    "location": "London, UK",
+    "description": "Chris and his team have always built companies that give superpowers to normal humans. At Qriously, they are working on predicting the future by serving questions to billions of people all over the world on their smartphones.",
+    "img": "chris"
+  },
+  {
+    "name": "Eduardo Vilar",
+    "role": "CEO and Founder",
+    "href": "https://returnly.com",
+    "company": "Returnly",
+    "location": "Madrid, Spain",
+    "description": "Eduardo founded Returnly in 2014 from a vision of a radically improved online marketplace where all constituents have aligned interests. He's leveraging modern fin-tech to enable stores with simple and transparent ways of processing returns and accelerate the resulting credit issuance to shoppers.",
+    "img": "eduardo"
+  },
+  {
+    "name": "Carlo Gualandri",
+    "role": "CEO and Founder ",
+    "href": "https://www.soldo.com",
+    "company": "Soldo",
+    "location": " Rome, Italy & London, UK",
+    "description": "Carlo has successfully built and sold a number of companies in over 20 years of entrepreneurism. Now he's turned his attention to banking, with a passion to fundamentally change how people manage their money.",
+    "img": "carlo"
+  },
+  {
+    "name": "Navid Razazi",
+    "role": "CEO and Founder",
+    "href": "https://youpic.com",
+    "company": "YouPic",
+    "location": "Gothenburg, Sweden",
+    "description": "Navid is the founder and CEO of YouPic. At the age of 15 he created his first website and is now growing YouPic to be the destination for photographers that want to learn and inspire.",
+    "img": "navid"
+  },
+  {
+    "name": "Aaron Joyce",
+    "role": "CEO and Co-founder",
+    "href": "https://aibl.io",
+    "company": "Aibl",
+    "location": "Stockholm, Sweden",
+    "description": "Aaron co-founded Aibl, the self-learning solution for recurring revenue driven companies. Aibl predicts when customers are going to leave and why. Companies can create custom messages and on-boarding flows based on each of their users’ predicted behaviour.",
+    "img": "aaron"
+  },
+  {
+    "name": "István Csanády",
+    "role": "CEO and Co-founder",
+    "href": "https://shapr3d.com",
+    "company": "Shapr3D",
+    "location": "Budapest, Hungary",
+    "description": "István has been a massive CAD nerd for years. Finally he decided 'enough is enough' and built his own. Shapr3D is a new way of thinking and designing, and has become one of the flagship iPad Pro apps.",
+    "img": "istvan"
+  }
+]

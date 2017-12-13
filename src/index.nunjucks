@@ -15,7 +15,7 @@
 <div class="page-container">
   {{nav.content()}}
   {{what_we_do.content()}}
-  {{portfolio.content()}}
+  {{portfolio.content(null, site.data.portfolio)}}
   {{about.content()}}
   {{articles.content()}}
   {{links.content()}}
